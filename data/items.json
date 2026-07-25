@@ -1,0 +1,4244 @@
+{
+ "version": 1,
+ "built_by": "tools/build_items.py",
+ "items": [
+  {
+   "id": "it_plan_000a",
+   "media": "plan",
+   "content": "走行20万kmの車を買って、壊れるまで乗る\n20万km超の個体を7万円で購入。\n直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "title": "走行20万kmの車を買って、壊れるまで乗る",
+   "body": "20万km超の個体を7万円で購入。\n直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "中古車",
+   "lang": "ja",
+   "context": {
+    "audience": "車を買い替えたい30〜40代",
+    "placement": "YouTube 15分"
+   },
+   "generation_batch": "gen_plan_000"
+  },
+  {
+   "id": "it_plan_000b",
+   "media": "plan",
+   "content": "中古車屋が絶対に言わない、値段の決まり方\n仕入れ値と販売値の差を、実際の伝票で見せてもらう。\n同じ車種が店によって40万違う理由を追う。\n最後に自分で1台買って検証する。",
+   "title": "中古車屋が絶対に言わない、値段の決まり方",
+   "body": "仕入れ値と販売値の差を、実際の伝票で見せてもらう。\n同じ車種が店によって40万違う理由を追う。\n最後に自分で1台買って検証する。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "中古車",
+   "lang": "ja",
+   "context": {
+    "audience": "車を買い替えたい30〜40代",
+    "placement": "YouTube 15分"
+   },
+   "generation_batch": "gen_plan_000"
+  },
+  {
+   "id": "it_plan_001a",
+   "media": "plan",
+   "content": "冷蔵庫の残り物だけで30日間\n買い足しを一切せずに何日生きられるか。\n日ごとに減っていく選択肢を撮る。\n最終日に何を食べたかで終わる。",
+   "title": "冷蔵庫の残り物だけで30日間",
+   "body": "買い足しを一切せずに何日生きられるか。\n日ごとに減っていく選択肢を撮る。\n最終日に何を食べたかで終わる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "料理",
+   "lang": "ja",
+   "context": {
+    "audience": "自炊を続けられない人",
+    "placement": "YouTube 10分"
+   },
+   "generation_batch": "gen_plan_001"
+  },
+  {
+   "id": "it_plan_001b",
+   "media": "plan",
+   "content": "プロが家庭のコンロで作ると、何が変わるのか\n同じレシピを、店の火力と家庭の火力で並べて作る。\n差が出た工程だけを止めて解説する。\n家庭側で埋められる部分を最後にまとめる。",
+   "title": "プロが家庭のコンロで作ると、何が変わるのか",
+   "body": "同じレシピを、店の火力と家庭の火力で並べて作る。\n差が出た工程だけを止めて解説する。\n家庭側で埋められる部分を最後にまとめる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "料理",
+   "lang": "ja",
+   "context": {
+    "audience": "自炊を続けられない人",
+    "placement": "YouTube 10分"
+   },
+   "generation_batch": "gen_plan_001"
+  },
+  {
+   "id": "it_plan_002a",
+   "media": "plan",
+   "content": "100円の苗と3000円の苗を、同じ条件で育てる\n同じ土、同じ水、同じ日照で並べて置く。\n毎週同じ角度で撮って差を見る。\n収穫量と味を最後に比べる。",
+   "title": "100円の苗と3000円の苗を、同じ条件で育てる",
+   "body": "同じ土、同じ水、同じ日照で並べて置く。\n毎週同じ角度で撮って差を見る。\n収穫量と味を最後に比べる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "園芸",
+   "lang": "ja",
+   "context": {
+    "audience": "ベランダ菜園を始めた人",
+    "placement": "YouTube 8分"
+   },
+   "generation_batch": "gen_plan_002"
+  },
+  {
+   "id": "it_plan_002b",
+   "media": "plan",
+   "content": "枯らした植物を、全部並べてみた\n3年で枯らした34鉢を一度に並べる。\n枯れた原因を一つずつ判定していく。\n共通していた失敗を最後に一つだけ挙げる。",
+   "title": "枯らした植物を、全部並べてみた",
+   "body": "3年で枯らした34鉢を一度に並べる。\n枯れた原因を一つずつ判定していく。\n共通していた失敗を最後に一つだけ挙げる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "園芸",
+   "lang": "ja",
+   "context": {
+    "audience": "ベランダ菜園を始めた人",
+    "placement": "YouTube 8分"
+   },
+   "generation_batch": "gen_plan_002"
+  },
+  {
+   "id": "it_plan_003a",
+   "media": "plan",
+   "content": "簿記3級に3回落ちた人の、間違いノートを全部見せる\n不正解だった問題を分類し直す。\n落ちた原因が知識ではなく手順だったことを示す。\n4回目で使った手順表を最後に置く。",
+   "title": "簿記3級に3回落ちた人の、間違いノートを全部見せる",
+   "body": "不正解だった問題を分類し直す。\n落ちた原因が知識ではなく手順だったことを示す。\n4回目で使った手順表を最後に置く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "簿記",
+   "lang": "ja",
+   "context": {
+    "audience": "資格を取ろうとしている社会人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_003"
+  },
+  {
+   "id": "it_plan_003b",
+   "media": "plan",
+   "content": "簿記を、家計簿から説明し直す\n仕訳を家計の出来事に全部置き換える。\n専門用語を一度も使わずに貸借を説明する。\n最後に用語だけを後付けで並べる。",
+   "title": "簿記を、家計簿から説明し直す",
+   "body": "仕訳を家計の出来事に全部置き換える。\n専門用語を一度も使わずに貸借を説明する。\n最後に用語だけを後付けで並べる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "簿記",
+   "lang": "ja",
+   "context": {
+    "audience": "資格を取ろうとしている社会人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_003"
+  },
+  {
+   "id": "it_plan_004a",
+   "media": "plan",
+   "content": "要介護認定の申請を、実際の書類の写真つきで最後まで\n申請から認定まで52日かかった記録。\nどこで何日止まったかを日付で出す。\n短縮できた工程を最後に挙げる。",
+   "title": "要介護認定の申請を、実際の書類の写真つきで最後まで",
+   "body": "申請から認定まで52日かかった記録。\nどこで何日止まったかを日付で出す。\n短縮できた工程を最後に挙げる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "介護",
+   "lang": "ja",
+   "context": {
+    "audience": "親の介護が始まった人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_004"
+  },
+  {
+   "id": "it_plan_004b",
+   "media": "plan",
+   "content": "親に「もう運転をやめて」と言えなかった2年間\n言えなかった理由を、そのつどの会話で残す。\n事故が起きる前に何が変わったのかを追う。\n最後に言えた日の会話をそのまま載せる。",
+   "title": "親に「もう運転をやめて」と言えなかった2年間",
+   "body": "言えなかった理由を、そのつどの会話で残す。\n事故が起きる前に何が変わったのかを追う。\n最後に言えた日の会話をそのまま載せる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "介護",
+   "lang": "ja",
+   "context": {
+    "audience": "親の介護が始まった人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_004"
+  },
+  {
+   "id": "it_plan_005a",
+   "media": "plan",
+   "content": "同じ場所に、100日通う\n毎日同じ堤防の同じ位置で1時間だけ竿を出す。\n釣れた日と釣れない日の条件を記録し続ける。\n100日目に条件表を作る。",
+   "title": "同じ場所に、100日通う",
+   "body": "毎日同じ堤防の同じ位置で1時間だけ竿を出す。\n釣れた日と釣れない日の条件を記録し続ける。\n100日目に条件表を作る。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "釣り",
+   "lang": "ja",
+   "context": {
+    "audience": "釣りを始めたばかりの人",
+    "placement": "YouTube 12分"
+   },
+   "generation_batch": "gen_plan_005"
+  },
+  {
+   "id": "it_plan_005b",
+   "media": "plan",
+   "content": "釣具屋の店員が、自分用に買っている道具\n5店舗の店員に私物の道具箱を見せてもらう。\n売れ筋と私物のずれを比べる。\nずれの理由を本人に聞く。",
+   "title": "釣具屋の店員が、自分用に買っている道具",
+   "body": "5店舗の店員に私物の道具箱を見せてもらう。\n売れ筋と私物のずれを比べる。\nずれの理由を本人に聞く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "釣り",
+   "lang": "ja",
+   "context": {
+    "audience": "釣りを始めたばかりの人",
+    "placement": "YouTube 12分"
+   },
+   "generation_batch": "gen_plan_005"
+  },
+  {
+   "id": "it_plan_006a",
+   "media": "plan",
+   "content": "1万円で、10年着られる服を選べるか\n古着屋3軒で予算1万円。\n選んだ理由をその場で言語化して撮る。\n1年後に同じ服を着て再撮影する。",
+   "title": "1万円で、10年着られる服を選べるか",
+   "body": "古着屋3軒で予算1万円。\n選んだ理由をその場で言語化して撮る。\n1年後に同じ服を着て再撮影する。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "古着",
+   "lang": "ja",
+   "context": {
+    "audience": "古着に興味が出てきた20代",
+    "placement": "YouTube 10分"
+   },
+   "generation_batch": "gen_plan_006"
+  },
+  {
+   "id": "it_plan_006b",
+   "media": "plan",
+   "content": "古着の値段は、誰が決めているのか\n仕入れの現場に同行して、値付けの瞬間を撮る。\n同じ状態の服で値段が割れる理由を聞く。\n最後に自分で値付けをやってみる。",
+   "title": "古着の値段は、誰が決めているのか",
+   "body": "仕入れの現場に同行して、値付けの瞬間を撮る。\n同じ状態の服で値段が割れる理由を聞く。\n最後に自分で値付けをやってみる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "古着",
+   "lang": "ja",
+   "context": {
+    "audience": "古着に興味が出てきた20代",
+    "placement": "YouTube 10分"
+   },
+   "generation_batch": "gen_plan_006"
+  },
+  {
+   "id": "it_plan_007a",
+   "media": "plan",
+   "content": "始発から終電まで、1つの駅から動かない\nホームのベンチに18時間座り続ける。\n乗降客の変化だけを定点で撮る。\n終電後の駅の音で終わる。",
+   "title": "始発から終電まで、1つの駅から動かない",
+   "body": "ホームのベンチに18時間座り続ける。\n乗降客の変化だけを定点で撮る。\n終電後の駅の音で終わる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "鉄道",
+   "lang": "ja",
+   "context": {
+    "audience": "旅行好き全般",
+    "placement": "YouTube 20分"
+   },
+   "generation_batch": "gen_plan_007"
+  },
+  {
+   "id": "it_plan_007b",
+   "media": "plan",
+   "content": "廃線になる路線の、最後の1週間\n沿線の5人に、その路線の使い方を聞く。\n最終日の車内をそのまま撮る。\n翌日の同じ時刻の同じ場所を撮る。",
+   "title": "廃線になる路線の、最後の1週間",
+   "body": "沿線の5人に、その路線の使い方を聞く。\n最終日の車内をそのまま撮る。\n翌日の同じ時刻の同じ場所を撮る。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "鉄道",
+   "lang": "ja",
+   "context": {
+    "audience": "旅行好き全般",
+    "placement": "YouTube 20分"
+   },
+   "generation_batch": "gen_plan_007"
+  },
+  {
+   "id": "it_plan_008a",
+   "media": "plan",
+   "content": "10年ぶりに歯医者に行ったら、何本残っていたか\n恐怖で通わなかった10年の記録。\n初診の写真と診断書をそのまま載せる。\n治療にかかった総額と期間を最後に出す。",
+   "title": "10年ぶりに歯医者に行ったら、何本残っていたか",
+   "body": "恐怖で通わなかった10年の記録。\n初診の写真と診断書をそのまま載せる。\n治療にかかった総額と期間を最後に出す。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "歯科",
+   "lang": "ja",
+   "context": {
+    "audience": "歯医者が苦手な人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_008"
+  },
+  {
+   "id": "it_plan_008b",
+   "media": "plan",
+   "content": "歯磨きの「正しい方法」が、5冊の本で全部違う\n売れている歯磨き本5冊の記述を突き合わせる。\n食い違っている点を表にする。\n歯科医3人にその表を見せて反応を聞く。",
+   "title": "歯磨きの「正しい方法」が、5冊の本で全部違う",
+   "body": "売れている歯磨き本5冊の記述を突き合わせる。\n食い違っている点を表にする。\n歯科医3人にその表を見せて反応を聞く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "歯科",
+   "lang": "ja",
+   "context": {
+    "audience": "歯医者が苦手な人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_008"
+  },
+  {
+   "id": "it_plan_009a",
+   "media": "plan",
+   "content": "ルールを読まずに、箱の絵だけで遊んでみる\n未開封のゲームを、説明書を見ずに始める。\n自分たちで作ったルールで1時間遊ぶ。\n最後に本当のルールを読んで比べる。",
+   "title": "ルールを読まずに、箱の絵だけで遊んでみる",
+   "body": "未開封のゲームを、説明書を見ずに始める。\n自分たちで作ったルールで1時間遊ぶ。\n最後に本当のルールを読んで比べる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "ボードゲーム",
+   "lang": "ja",
+   "context": {
+    "audience": "家族で遊ぶものを探している人",
+    "placement": "YouTube 14分"
+   },
+   "generation_batch": "gen_plan_009"
+  },
+  {
+   "id": "it_plan_009b",
+   "media": "plan",
+   "content": "作った人に、いちばん負けている人を見せる\nデザイナーの前で初心者がプレイする。\n作り手が想定していなかった動きを拾う。\n次の版で直すつもりの箇所を聞く。",
+   "title": "作った人に、いちばん負けている人を見せる",
+   "body": "デザイナーの前で初心者がプレイする。\n作り手が想定していなかった動きを拾う。\n次の版で直すつもりの箇所を聞く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "ボードゲーム",
+   "lang": "ja",
+   "context": {
+    "audience": "家族で遊ぶものを探している人",
+    "placement": "YouTube 14分"
+   },
+   "generation_batch": "gen_plan_009"
+  },
+  {
+   "id": "it_plan_010a",
+   "media": "plan",
+   "content": "潰れた店の、最後の日の売上表\n閉店した個人商店の帳簿を借りる。\n売上が落ち始めた月を特定する。\n当時の店主に、その月に何があったかを聞く。",
+   "title": "潰れた店の、最後の日の売上表",
+   "body": "閉店した個人商店の帳簿を借りる。\n売上が落ち始めた月を特定する。\n当時の店主に、その月に何があったかを聞く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "廃墟",
+   "lang": "ja",
+   "context": {
+    "audience": "ドキュメンタリー好き",
+    "placement": "YouTube 18分"
+   },
+   "generation_batch": "gen_plan_010"
+  },
+  {
+   "id": "it_plan_010b",
+   "media": "plan",
+   "content": "20年前の商店街の写真を持って、同じ場所に立つ\n同じ画角で撮り直す。\n写っていた店の今を1軒ずつ確認する。\n残っている1軒に話を聞いて終わる。",
+   "title": "20年前の商店街の写真を持って、同じ場所に立つ",
+   "body": "同じ画角で撮り直す。\n写っていた店の今を1軒ずつ確認する。\n残っている1軒に話を聞いて終わる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "廃墟",
+   "lang": "ja",
+   "context": {
+    "audience": "ドキュメンタリー好き",
+    "placement": "YouTube 18分"
+   },
+   "generation_batch": "gen_plan_010"
+  },
+  {
+   "id": "it_plan_011a",
+   "media": "plan",
+   "content": "1本のペンを、5年使い切るまで\n同じペンを5年使った消耗の記録。\nインクの減り方と書く量の関係を出す。\n買い替えた瞬間の違和感を書く。",
+   "title": "1本のペンを、5年使い切るまで",
+   "body": "同じペンを5年使った消耗の記録。\nインクの減り方と書く量の関係を出す。\n買い替えた瞬間の違和感を書く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "文房具",
+   "lang": "ja",
+   "context": {
+    "audience": "仕事道具にこだわる人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_011"
+  },
+  {
+   "id": "it_plan_011b",
+   "media": "plan",
+   "content": "売れているノートと、売れていないノートの差は3mm\n同じ価格帯のノート12冊を実測する。\n罫線幅と売上の関係を並べる。\nメーカーに設計意図を聞く。",
+   "title": "売れているノートと、売れていないノートの差は3mm",
+   "body": "同じ価格帯のノート12冊を実測する。\n罫線幅と売上の関係を並べる。\nメーカーに設計意図を聞く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "文房具",
+   "lang": "ja",
+   "context": {
+    "audience": "仕事道具にこだわる人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_011"
+  },
+  {
+   "id": "it_plan_012a",
+   "media": "plan",
+   "content": "都会のビルの屋上で、蜂を飼う\n半径3kmに何の花があるかを先に調べる。\n採れた蜜の味から、蜂がどこへ行ったかを逆算する。\n地図と味を突き合わせて終わる。",
+   "title": "都会のビルの屋上で、蜂を飼う",
+   "body": "半径3kmに何の花があるかを先に調べる。\n採れた蜜の味から、蜂がどこへ行ったかを逆算する。\n地図と味を突き合わせて終わる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "養蜂",
+   "lang": "ja",
+   "context": {
+    "audience": "一次産業に関心がある人",
+    "placement": "YouTube 16分"
+   },
+   "generation_batch": "gen_plan_012"
+  },
+  {
+   "id": "it_plan_012b",
+   "media": "plan",
+   "content": "養蜂家が、いちばん怖いと言ったもの\n5人に同じ質問をする。\n答えが割れた点を掘る。\n全員が同じ答えだった1つを最後に出す。",
+   "title": "養蜂家が、いちばん怖いと言ったもの",
+   "body": "5人に同じ質問をする。\n答えが割れた点を掘る。\n全員が同じ答えだった1つを最後に出す。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "養蜂",
+   "lang": "ja",
+   "context": {
+    "audience": "一次産業に関心がある人",
+    "placement": "YouTube 16分"
+   },
+   "generation_batch": "gen_plan_012"
+  },
+  {
+   "id": "it_plan_013a",
+   "media": "plan",
+   "content": "施主が後悔した箇所を、100軒分集めた\n築3〜10年の住宅で「ここを変えたい」を1つずつ聞く。\n部位ごとに集計する。\n上位3つに共通する設計の癖を書く。",
+   "title": "施主が後悔した箇所を、100軒分集めた",
+   "body": "築3〜10年の住宅で「ここを変えたい」を1つずつ聞く。\n部位ごとに集計する。\n上位3つに共通する設計の癖を書く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "建築",
+   "lang": "ja",
+   "context": {
+    "audience": "家を建てる予定の人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_013"
+  },
+  {
+   "id": "it_plan_013b",
+   "media": "plan",
+   "content": "図面では分からなかったことを、模型で全部出す\n同じ家を図面と1/50模型で並べる。\n模型で初めて気づいた点を記録する。\n実物完成後にもう一度突き合わせる。",
+   "title": "図面では分からなかったことを、模型で全部出す",
+   "body": "同じ家を図面と1/50模型で並べる。\n模型で初めて気づいた点を記録する。\n実物完成後にもう一度突き合わせる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "建築",
+   "lang": "ja",
+   "context": {
+    "audience": "家を建てる予定の人",
+    "placement": "note 記事"
+   },
+   "generation_batch": "gen_plan_013"
+  },
+  {
+   "id": "it_plan_014a",
+   "media": "plan",
+   "content": "魚が高いのは、誰のせいなのか\n同じ1匹が漁師から食卓に届くまでの値段を追う。\n各段階で乗る金額をその場で聞く。\n最後に漁師の手取りを出す。",
+   "title": "魚が高いのは、誰のせいなのか",
+   "body": "同じ1匹が漁師から食卓に届くまでの値段を追う。\n各段階で乗る金額をその場で聞く。\n最後に漁師の手取りを出す。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "漁業",
+   "lang": "ja",
+   "context": {
+    "audience": "食のドキュメンタリー好き",
+    "placement": "YouTube 22分"
+   },
+   "generation_batch": "gen_plan_014"
+  },
+  {
+   "id": "it_plan_014b",
+   "media": "plan",
+   "content": "売れない魚だけを、1週間食べ続ける\n市場で値がつかない魚を毎日もらう。\nなぜ売れないのかを食べながら検証する。\n1週間後に一番うまかったものを出す。",
+   "title": "売れない魚だけを、1週間食べ続ける",
+   "body": "市場で値がつかない魚を毎日もらう。\nなぜ売れないのかを食べながら検証する。\n1週間後に一番うまかったものを出す。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "漁業",
+   "lang": "ja",
+   "context": {
+    "audience": "食のドキュメンタリー好き",
+    "placement": "YouTube 22分"
+   },
+   "generation_batch": "gen_plan_014"
+  },
+  {
+   "id": "it_plan_015a",
+   "media": "plan",
+   "content": "50年前の宇宙予測を、答え合わせする\n1975年の科学雑誌の予測を全部拾う。\n当たったもの外れたものを分類する。\n外れ方に共通する癖を最後に出す。",
+   "title": "50年前の宇宙予測を、答え合わせする",
+   "body": "1975年の科学雑誌の予測を全部拾う。\n当たったもの外れたものを分類する。\n外れ方に共通する癖を最後に出す。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "宇宙",
+   "lang": "ja",
+   "context": {
+    "audience": "科学に関心のある一般層",
+    "placement": "YouTube 13分"
+   },
+   "generation_batch": "gen_plan_015"
+  },
+  {
+   "id": "it_plan_015b",
+   "media": "plan",
+   "content": "宇宙飛行士の訓練を、1日だけ本気でやる\n実際の訓練メニューを再現してもらう。\nどこで脱落したかを正確に記録する。\n訓練を作った人にその結果を見せる。",
+   "title": "宇宙飛行士の訓練を、1日だけ本気でやる",
+   "body": "実際の訓練メニューを再現してもらう。\nどこで脱落したかを正確に記録する。\n訓練を作った人にその結果を見せる。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "宇宙",
+   "lang": "ja",
+   "context": {
+    "audience": "科学に関心のある一般層",
+    "placement": "YouTube 13分"
+   },
+   "generation_batch": "gen_plan_015"
+  },
+  {
+   "id": "it_copy_000a",
+   "media": "copy",
+   "content": "その値段、まだ下がる前です。",
+   "title": "その値段、まだ下がる前です。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "中古車",
+   "lang": "ja",
+   "context": {
+    "audience": "買い替え検討層",
+    "placement": "ディーラーの店頭POP",
+    "note": "下取り査定の訴求"
+   },
+   "generation_batch": "gen_copy_000"
+  },
+  {
+   "id": "it_copy_000b",
+   "media": "copy",
+   "content": "下取り、他店より高く。",
+   "title": "下取り、他店より高く。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "中古車",
+   "lang": "ja",
+   "context": {
+    "audience": "買い替え検討層",
+    "placement": "ディーラーの店頭POP",
+    "note": "下取り査定の訴求"
+   },
+   "generation_batch": "gen_copy_000"
+  },
+  {
+   "id": "it_copy_001a",
+   "media": "copy",
+   "content": "痛くなる前に、寄れる歯医者。",
+   "title": "痛くなる前に、寄れる歯医者。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "歯科医院",
+   "lang": "ja",
+   "context": {
+    "audience": "近隣の家族層",
+    "placement": "駅の看板",
+    "note": "通いやすさの訴求"
+   },
+   "generation_batch": "gen_copy_001"
+  },
+  {
+   "id": "it_copy_001b",
+   "media": "copy",
+   "content": "土曜も、夜8時まで。",
+   "title": "土曜も、夜8時まで。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "歯科医院",
+   "lang": "ja",
+   "context": {
+    "audience": "近隣の家族層",
+    "placement": "駅の看板",
+    "note": "通いやすさの訴求"
+   },
+   "generation_batch": "gen_copy_001"
+  },
+  {
+   "id": "it_copy_002a",
+   "media": "copy",
+   "content": "わからない、を言える人数です。",
+   "title": "わからない、を言える人数です。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "学習塾",
+   "lang": "ja",
+   "context": {
+    "audience": "中学生の保護者",
+    "placement": "折込チラシ",
+    "note": "個別指導の訴求"
+   },
+   "generation_batch": "gen_copy_002"
+  },
+  {
+   "id": "it_copy_002b",
+   "media": "copy",
+   "content": "講師1人に、生徒2人まで。",
+   "title": "講師1人に、生徒2人まで。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "学習塾",
+   "lang": "ja",
+   "context": {
+    "audience": "中学生の保護者",
+    "placement": "折込チラシ",
+    "note": "個別指導の訴求"
+   },
+   "generation_batch": "gen_copy_002"
+  },
+  {
+   "id": "it_copy_003a",
+   "media": "copy",
+   "content": "決める前に、一度、昼どきに来てください。",
+   "title": "決める前に、一度、昼どきに来てください。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "介護施設",
+   "lang": "ja",
+   "context": {
+    "audience": "入居を検討する家族",
+    "placement": "パンフレット表紙",
+    "note": "見学の誘導"
+   },
+   "generation_batch": "gen_copy_003"
+  },
+  {
+   "id": "it_copy_003b",
+   "media": "copy",
+   "content": "入居前に、暮らしを見に。",
+   "title": "入居前に、暮らしを見に。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "介護施設",
+   "lang": "ja",
+   "context": {
+    "audience": "入居を検討する家族",
+    "placement": "パンフレット表紙",
+    "note": "見学の誘導"
+   },
+   "generation_batch": "gen_copy_003"
+  },
+  {
+   "id": "it_copy_004a",
+   "media": "copy",
+   "content": "冬の朝、廊下が寒くない家。",
+   "title": "冬の朝、廊下が寒くない家。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "工務店",
+   "lang": "ja",
+   "context": {
+    "audience": "新築を考える30代",
+    "placement": "Webサイトの見出し",
+    "note": "断熱性能の訴求"
+   },
+   "generation_batch": "gen_copy_004"
+  },
+  {
+   "id": "it_copy_004b",
+   "media": "copy",
+   "content": "数値で語れる断熱を。",
+   "title": "数値で語れる断熱を。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "工務店",
+   "lang": "ja",
+   "context": {
+    "audience": "新築を考える30代",
+    "placement": "Webサイトの見出し",
+    "note": "断熱性能の訴求"
+   },
+   "generation_batch": "gen_copy_004"
+  },
+  {
+   "id": "it_copy_005a",
+   "media": "copy",
+   "content": "今日は作らない、と決めた日に。",
+   "title": "今日は作らない、と決めた日に。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "食品",
+   "lang": "ja",
+   "context": {
+    "audience": "共働き世帯",
+    "placement": "パッケージ",
+    "note": "冷凍餃子の訴求"
+   },
+   "generation_batch": "gen_copy_005"
+  },
+  {
+   "id": "it_copy_005b",
+   "media": "copy",
+   "content": "フライパンひとつ、10分。",
+   "title": "フライパンひとつ、10分。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "食品",
+   "lang": "ja",
+   "context": {
+    "audience": "共働き世帯",
+    "placement": "パッケージ",
+    "note": "冷凍餃子の訴求"
+   },
+   "generation_batch": "gen_copy_005"
+  },
+  {
+   "id": "it_copy_006a",
+   "media": "copy",
+   "content": "定時に帰る人が、いちばん評価されます。",
+   "title": "定時に帰る人が、いちばん評価されます。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "求人",
+   "lang": "ja",
+   "context": {
+    "audience": "20代の転職希望者",
+    "placement": "求人サイトの見出し",
+    "note": "製造業の採用"
+   },
+   "generation_batch": "gen_copy_006"
+  },
+  {
+   "id": "it_copy_006b",
+   "media": "copy",
+   "content": "残業ゼロを、5年続けています。",
+   "title": "残業ゼロを、5年続けています。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "求人",
+   "lang": "ja",
+   "context": {
+    "audience": "20代の転職希望者",
+    "placement": "求人サイトの見出し",
+    "note": "製造業の採用"
+   },
+   "generation_batch": "gen_copy_006"
+  },
+  {
+   "id": "it_copy_007a",
+   "media": "copy",
+   "content": "読まなくていいので、入ってください。",
+   "title": "読まなくていいので、入ってください。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "書店",
+   "lang": "ja",
+   "context": {
+    "audience": "街の通行人",
+    "placement": "店頭の黒板",
+    "note": "来店の誘導"
+   },
+   "generation_batch": "gen_copy_007"
+  },
+  {
+   "id": "it_copy_007b",
+   "media": "copy",
+   "content": "立ち読み、歓迎します。",
+   "title": "立ち読み、歓迎します。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "書店",
+   "lang": "ja",
+   "context": {
+    "audience": "街の通行人",
+    "placement": "店頭の黒板",
+    "note": "来店の誘導"
+   },
+   "generation_batch": "gen_copy_007"
+  },
+  {
+   "id": "it_copy_008a",
+   "media": "copy",
+   "content": "月曜に間に合わせます。",
+   "title": "月曜に間に合わせます。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "クリーニング",
+   "lang": "ja",
+   "context": {
+    "audience": "近隣住民",
+    "placement": "のぼり",
+    "note": "スーツの訴求"
+   },
+   "generation_batch": "gen_copy_008"
+  },
+  {
+   "id": "it_copy_008b",
+   "media": "copy",
+   "content": "スーツ、最短翌日。",
+   "title": "スーツ、最短翌日。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "クリーニング",
+   "lang": "ja",
+   "context": {
+    "audience": "近隣住民",
+    "placement": "のぼり",
+    "note": "スーツの訴求"
+   },
+   "generation_batch": "gen_copy_008"
+  },
+  {
+   "id": "it_copy_009a",
+   "media": "copy",
+   "content": "週1でいいと言われた日から、続いています。",
+   "title": "週1でいいと言われた日から、続いています。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "ジム",
+   "lang": "ja",
+   "context": {
+    "audience": "運動が続かない層",
+    "placement": "SNS広告",
+    "note": "継続の訴求"
+   },
+   "generation_batch": "gen_copy_009"
+  },
+  {
+   "id": "it_copy_009b",
+   "media": "copy",
+   "content": "週1回30分から。",
+   "title": "週1回30分から。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "ジム",
+   "lang": "ja",
+   "context": {
+    "audience": "運動が続かない層",
+    "placement": "SNS広告",
+    "note": "継続の訴求"
+   },
+   "generation_batch": "gen_copy_009"
+  },
+  {
+   "id": "it_copy_010a",
+   "media": "copy",
+   "content": "形が悪いだけで、この値段です。",
+   "title": "形が悪いだけで、この値段です。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "農産物直売",
+   "lang": "ja",
+   "context": {
+    "audience": "週末の買い物客",
+    "placement": "店内の手書きPOP",
+    "note": "規格外野菜の訴求"
+   },
+   "generation_batch": "gen_copy_010"
+  },
+  {
+   "id": "it_copy_010b",
+   "media": "copy",
+   "content": "見た目以外は、同じです。",
+   "title": "見た目以外は、同じです。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "農産物直売",
+   "lang": "ja",
+   "context": {
+    "audience": "週末の買い物客",
+    "placement": "店内の手書きPOP",
+    "note": "規格外野菜の訴求"
+   },
+   "generation_batch": "gen_copy_010"
+  },
+  {
+   "id": "it_copy_011a",
+   "media": "copy",
+   "content": "まだ何も起きていないうちに。",
+   "title": "まだ何も起きていないうちに。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "葬儀社",
+   "lang": "ja",
+   "context": {
+    "audience": "事前相談を考える層",
+    "placement": "新聞広告",
+    "note": "事前相談の訴求"
+   },
+   "generation_batch": "gen_copy_011"
+  },
+  {
+   "id": "it_copy_011b",
+   "media": "copy",
+   "content": "事前のご相談、無料です。",
+   "title": "事前のご相談、無料です。",
+   "source": "AI生成案",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "draft",
+   "domain": "葬儀社",
+   "lang": "ja",
+   "context": {
+    "audience": "事前相談を考える層",
+    "placement": "新聞広告",
+    "note": "事前相談の訴求"
+   },
+   "generation_batch": "gen_copy_011"
+  },
+  {
+   "id": "it_orig_000",
+   "media": "copy",
+   "content": "今日は作らない、と決めた日に。",
+   "title": "今日は作らない、と決めた日に。",
+   "body": null,
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "食品",
+   "lang": "ja",
+   "context": {
+    "placement": "冷凍食品のパッケージ"
+   }
+  },
+  {
+   "id": "it_pert_000_0",
+   "media": "copy",
+   "content": "作らないと決めた日に、今日は。",
+   "title": "作らないと決めた日に、今日は。",
+   "body": null,
+   "source": "改変版（語順入替）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "食品",
+   "lang": "ja",
+   "context": {
+    "placement": "冷凍食品のパッケージ"
+   }
+  },
+  {
+   "id": "it_pert_000_1",
+   "media": "copy",
+   "content": "今日は作らない、と決めた日に。手軽で本格的な味わいをどうぞ。",
+   "title": "今日は作らない、と決めた日に。手軽で本格的な味わいをどうぞ。",
+   "body": null,
+   "source": "改変版（一文追加）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "食品",
+   "lang": "ja",
+   "context": {
+    "placement": "冷凍食品のパッケージ"
+   }
+  },
+  {
+   "id": "it_pert_000_2",
+   "media": "copy",
+   "content": "忙しい日に、便利な一品を。",
+   "title": "忙しい日に、便利な一品を。",
+   "body": null,
+   "source": "改変版（抽象化）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "食品",
+   "lang": "ja",
+   "context": {
+    "placement": "冷凍食品のパッケージ"
+   }
+  },
+  {
+   "id": "it_orig_001",
+   "media": "copy",
+   "content": "読まなくていいので、入ってください。",
+   "title": "読まなくていいので、入ってください。",
+   "body": null,
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "書店",
+   "lang": "ja",
+   "context": {
+    "placement": "店頭の黒板"
+   }
+  },
+  {
+   "id": "it_pert_001_0",
+   "media": "copy",
+   "content": "入ってください、読まなくていいので。",
+   "title": "入ってください、読まなくていいので。",
+   "body": null,
+   "source": "改変版（語順入替）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "書店",
+   "lang": "ja",
+   "context": {
+    "placement": "店頭の黒板"
+   }
+  },
+  {
+   "id": "it_pert_001_1",
+   "media": "copy",
+   "content": "読まなくても大丈夫ですので、ぜひお入りください。",
+   "title": "読まなくても大丈夫ですので、ぜひお入りください。",
+   "body": null,
+   "source": "改変版（語尾変更）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "書店",
+   "lang": "ja",
+   "context": {
+    "placement": "店頭の黒板"
+   }
+  },
+  {
+   "id": "it_orig_002",
+   "media": "copy",
+   "content": "冬の朝、廊下が寒くない家。",
+   "title": "冬の朝、廊下が寒くない家。",
+   "body": null,
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "工務店",
+   "lang": "ja",
+   "context": {
+    "placement": "Webの見出し"
+   }
+  },
+  {
+   "id": "it_pert_002_0",
+   "media": "copy",
+   "content": "一年中、快適な温度の家。",
+   "title": "一年中、快適な温度の家。",
+   "body": null,
+   "source": "改変版（具体の削除）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "工務店",
+   "lang": "ja",
+   "context": {
+    "placement": "Webの見出し"
+   }
+  },
+  {
+   "id": "it_pert_002_1",
+   "media": "copy",
+   "content": "冬の朝、廊下が寒くない家。高気密高断熱の技術がそれを実現します。",
+   "title": "冬の朝、廊下が寒くない家。高気密高断熱の技術がそれを実現します。",
+   "body": null,
+   "source": "改変版（一文追加）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "工務店",
+   "lang": "ja",
+   "context": {
+    "placement": "Webの見出し"
+   }
+  },
+  {
+   "id": "it_orig_003",
+   "media": "copy",
+   "content": "走行20万kmの車を7万円で買う。\n直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "title": "走行20万kmの車を7万円で買う。",
+   "body": "直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 15分の企画概要"
+   }
+  },
+  {
+   "id": "it_pert_003_0",
+   "media": "copy",
+   "content": "止まった場所で企画を終える。\n直す／直さないの判断をそのつど記録する。\n走行20万kmの車を7万円で買う。",
+   "title": "止まった場所で企画を終える。",
+   "body": "直す／直さないの判断をそのつど記録する。\n走行20万kmの車を7万円で買う。",
+   "source": "改変版（順序反転）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 15分の企画概要"
+   }
+  },
+  {
+   "id": "it_pert_003_1",
+   "media": "copy",
+   "content": "走行距離の多い車を安く買う。\n直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "title": "走行距離の多い車を安く買う。",
+   "body": "直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "source": "改変版（数字の削除）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 15分の企画概要"
+   }
+  },
+  {
+   "id": "it_pert_003_2",
+   "media": "copy",
+   "content": "直す／直さないの判断をそのつど記録する。\n止まった場所で企画を終える。",
+   "title": "直す／直さないの判断をそのつど記録する。",
+   "body": "止まった場所で企画を終える。",
+   "source": "改変版（冒頭の削除）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 15分の企画概要"
+   }
+  },
+  {
+   "id": "it_orig_004",
+   "media": "copy",
+   "content": "簿記3級に3回落ちた。\n間違いノートを全部並べたら、原因は知識ではなく手順だった。\nその手順表を最後に置く。",
+   "title": "簿記3級に3回落ちた。",
+   "body": "間違いノートを全部並べたら、原因は知識ではなく手順だった。\nその手順表を最後に置く。",
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事のリード"
+   }
+  },
+  {
+   "id": "it_pert_004_0",
+   "media": "copy",
+   "content": "簿記3級に落ちる原因は、知識ではなく手順にある。\n私は3回落ちた。\n間違いノートから作った手順表を最後に置く。",
+   "title": "簿記3級に落ちる原因は、知識ではなく手順にある。",
+   "body": "私は3回落ちた。\n間違いノートから作った手順表を最後に置く。",
+   "source": "改変版（結論の前出し）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事のリード"
+   }
+  },
+  {
+   "id": "it_pert_004_1",
+   "media": "copy",
+   "content": "簿記3級に3回落ちた。\nそして、間違いノートを全部並べてみたところ、原因は知識ではなくて手順だった。\nだから、その手順表を最後に置く。",
+   "title": "簿記3級に3回落ちた。",
+   "body": "そして、間違いノートを全部並べてみたところ、原因は知識ではなくて手順だった。\nだから、その手順表を最後に置く。",
+   "source": "改変版（接続詞の追加）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事のリード"
+   }
+  },
+  {
+   "id": "it_orig_005",
+   "media": "copy",
+   "content": "毎日同じ堤防の同じ位置で1時間だけ竿を出す。\n釣れた日と釣れない日の条件を記録し続ける。\n100日目に条件表を作る。",
+   "title": "毎日同じ堤防の同じ位置で1時間だけ竿を出す。",
+   "body": "釣れた日と釣れない日の条件を記録し続ける。\n100日目に条件表を作る。",
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 12分の企画概要"
+   }
+  },
+  {
+   "id": "it_pert_005_0",
+   "media": "copy",
+   "content": "同じ堤防に通って竿を出す。\n釣れた日と釣れない日の条件を記録し続ける。\n最後に条件表を作る。",
+   "title": "同じ堤防に通って竿を出す。",
+   "body": "釣れた日と釣れない日の条件を記録し続ける。\n最後に条件表を作る。",
+   "source": "改変版（制約の削除）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 12分の企画概要"
+   }
+  },
+  {
+   "id": "it_pert_005_1",
+   "media": "copy",
+   "content": "釣れた日と釣れない日の条件を記録し続ける。\n毎日同じ堤防の同じ位置で1時間だけ竿を出す。\n100日目に条件表を作る。",
+   "title": "釣れた日と釣れない日の条件を記録し続ける。",
+   "body": "毎日同じ堤防の同じ位置で1時間だけ竿を出す。\n100日目に条件表を作る。",
+   "source": "改変版（語順入替）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "企画",
+   "lang": "ja",
+   "context": {
+    "placement": "YouTube 12分の企画概要"
+   }
+  },
+  {
+   "id": "it_orig_006",
+   "media": "copy",
+   "content": "親に「もう運転をやめて」と言えなかった2年間",
+   "title": "親に「もう運転をやめて」と言えなかった2年間",
+   "body": null,
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "介護",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事の見出し"
+   }
+  },
+  {
+   "id": "it_pert_006_0",
+   "media": "copy",
+   "content": "高齢の親の運転について考えたこと",
+   "title": "高齢の親の運転について考えたこと",
+   "body": null,
+   "source": "改変版（抽象化）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "介護",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事の見出し"
+   }
+  },
+  {
+   "id": "it_pert_006_1",
+   "media": "copy",
+   "content": "親に「もう運転をやめて」と言えなかった2年間｜家族の葛藤と決断のすべて",
+   "title": "親に「もう運転をやめて」と言えなかった2年間｜家族の葛藤と決断のすべて",
+   "body": null,
+   "source": "改変版（一文追加）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "介護",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事の見出し"
+   }
+  },
+  {
+   "id": "it_orig_007",
+   "media": "copy",
+   "content": "施主が後悔した箇所を、100軒分集めた",
+   "title": "施主が後悔した箇所を、100軒分集めた",
+   "body": null,
+   "source": "原版",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "建築",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事の見出し"
+   }
+  },
+  {
+   "id": "it_pert_007_0",
+   "media": "copy",
+   "content": "施主が後悔した箇所を、たくさん集めた",
+   "title": "施主が後悔した箇所を、たくさん集めた",
+   "body": null,
+   "source": "改変版（数字の削除）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "建築",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事の見出し"
+   }
+  },
+  {
+   "id": "it_pert_007_1",
+   "media": "copy",
+   "content": "施主が後悔した箇所を100軒分集めてみました",
+   "title": "施主が後悔した箇所を100軒分集めてみました",
+   "body": null,
+   "source": "改変版（語尾変更）",
+   "is_famous": false,
+   "origin": "ai_generated",
+   "completion": "finished",
+   "domain": "建築",
+   "lang": "ja",
+   "context": {
+    "placement": "note 記事の見出し"
+   }
+  },
+  {
+   "id": "it_ext_001",
+   "media": "copy",
+   "content": "After 5 days, my OS doesn't crash when I press a key",
+   "url": "https://news.ycombinator.com/item?id=6852423",
+   "source": "Hacker News (submitted by jvns / Julia Evans, jvns.ca)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "自作OS連載ブログの進捗共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 259,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2013,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_002",
+   "media": "copy",
+   "content": "Writing malloc wrong, for fun",
+   "url": "https://news.ycombinator.com/item?id=6879212",
+   "source": "Hacker News (submitted by jvns / Julia Evans, jvns.ca)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "自作OS連載ブログの進捗共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 45,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2013,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_003",
+   "media": "copy",
+   "content": "What's wrong with 2006 programming?",
+   "url": "https://news.ycombinator.com/item?id=1760540",
+   "source": "Hacker News (submitted by antirez / Salvatore Sanfilippo, antirez.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでの技術エッセイ・Tips共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 157,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_004",
+   "media": "copy",
+   "content": "Redis as an LRU cache (and the mystery of port 6379)",
+   "url": "https://news.ycombinator.com/item?id=1795316",
+   "source": "Hacker News (submitted by antirez / Salvatore Sanfilippo, antirez.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでの技術エッセイ・Tips共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 22,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_005",
+   "media": "copy",
+   "content": "Running a Software Business on 5 Hours A Week",
+   "url": "https://news.ycombinator.com/item?id=1206649",
+   "source": "Hacker News (submitted by patio11 / Patrick McKenzie, kalzumeus.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "スタートアップ/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "起業家・個人開発者",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでのビジネス運営ノウハウ共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 359,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_006",
+   "media": "copy",
+   "content": "Dashboard Design For Metrics-Savvy Software Companies",
+   "url": "https://news.ycombinator.com/item?id=1112500",
+   "source": "Hacker News (submitted by patio11 / Patrick McKenzie, kalzumeus.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "スタートアップ/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "起業家・個人開発者",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでのビジネス運営ノウハウ共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 31,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_007",
+   "media": "copy",
+   "content": "ダイソーの種で育てやすいのはどれか",
+   "url": "https://shinonomen.hatenablog.com/entry/2026/04/08/191049",
+   "source": "東雲製作所 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/08/191049",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "園芸/生活",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "生活系ネタのブログ記事",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 272,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_008",
+   "media": "copy",
+   "content": "大型テック株に集中投資する投資信託比較",
+   "url": "https://shinonomen.hatenablog.com/entry/2026/04/17/201217",
+   "source": "東雲製作所 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/17/201217",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "園芸/生活",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "生活系ネタのブログ記事",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_009",
+   "media": "copy",
+   "content": "非名古屋民が「味噌カツ」の尋常ならざるおいしさを発見した話",
+   "url": "https://kokorosha.hatenablog.com/entry/2026/07/18/195218",
+   "source": "ココロ社 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/07/18/195218",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "食/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "食や街歩きの個人エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 178,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_010",
+   "media": "copy",
+   "content": "首都圏の異界にして穴場、逗子の「まんだら堂やぐら群」",
+   "url": "https://kokorosha.hatenablog.com/entry/2026/05/02/195728",
+   "source": "ココロ社 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/05/02/195728",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "食/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "食や街歩きの個人エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 10,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_011",
+   "media": "copy",
+   "content": "3 の倍数と 3 がつく数のときだけ、浮動小数点誤差でアホになる世界のナベアツ",
+   "url": "https://rsk0315.hatenablog.com/entry/2026/07/15/003333",
+   "source": "えびちゃんの日記 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/15/003333",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/数学",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "競プロ・技術ネタの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 57,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_012",
+   "media": "copy",
+   "content": "浮動小数点型の除算に対する第二原像攻撃",
+   "url": "https://rsk0315.hatenablog.com/entry/2026/07/11/170329",
+   "source": "えびちゃんの日記 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/11/170329",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/数学",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "競プロ・技術ネタの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 0,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_013",
+   "media": "copy",
+   "content": "『探偵！ナイトスクープ』で思い出した、デブサミ誕生秘話ーなぜデブサミは5トラック同時開催になったのか？",
+   "url": "https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+   "source": "希望log (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "IT業界/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "IT業界関係者",
+    "placement": "はてなブログ"
+   },
+   "intent": "IT業界の思い出・組織論エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 52,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_014",
+   "media": "copy",
+   "content": "自己組織化の手法と透明性",
+   "url": "https://iwakiri.hatenablog.com/entry/2026/01/15/170835",
+   "source": "希望log (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/01/15/170835",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "IT業界/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "IT業界関係者",
+    "placement": "はてなブログ"
+   },
+   "intent": "IT業界の思い出・組織論エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_015",
+   "media": "copy",
+   "content": "文章や資料からAI臭をなくす方法",
+   "url": "https://mimifuwacc.hatenablog.com/entry/2026/07/13/201143",
+   "source": "ハーフダチョウ研究会 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/07/13/201143",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/ライティング",
+   "lang": "ja",
+   "context": {
+    "audience": "ビジネスパーソン",
+    "placement": "はてなブログ"
+   },
+   "intent": "AI活用Tipsの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 52,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_016",
+   "media": "copy",
+   "content": "株式会社はてなに入社しました",
+   "url": "https://mimifuwacc.hatenablog.com/entry/2026/04/01/110408",
+   "source": "ハーフダチョウ研究会 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/04/01/110408",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/ライティング",
+   "lang": "ja",
+   "context": {
+    "audience": "ビジネスパーソン",
+    "placement": "はてなブログ"
+   },
+   "intent": "AI活用Tipsの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 0,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_017",
+   "media": "copy",
+   "content": "ChatGPTを使っても稼げない人の共通点",
+   "url": "https://note.com/kotobashira/n/na88ffba640b4",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/副業",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 193,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_018",
+   "media": "copy",
+   "content": "報酬画面のスクショはもう証拠にならない｜AI時代で生き残る差別化戦略",
+   "url": "https://note.com/kotobashira/n/na0ed487ec98a",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/副業",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 20,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_019",
+   "media": "copy",
+   "content": "AIで記事を書いても読まれない本当の理由",
+   "url": "https://note.com/kotobashira/n/n61e7fc92b57b",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/コンテンツ制作",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 176,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_020",
+   "media": "copy",
+   "content": "収益化停止16チャンネル・3500万人分の喪失から見える、量産型から抜けて独自の情報発信を築くヒント",
+   "url": "https://note.com/kotobashira/n/n311c81f86518",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/コンテンツ制作",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 7,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_021",
+   "media": "copy",
+   "content": "AI が奪ったのは「仕事」ではなく「情熱」か？",
+   "url": "https://note.com/aiqa/n/na95f452d14b9",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/雑感",
+   "lang": "ja",
+   "context": {
+    "audience": "AIに関心のある一般層",
+    "placement": "note"
+   },
+   "intent": "AIに関する日々の雑感・問答形式の投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 19,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_022",
+   "media": "copy",
+   "content": "スマホのカメラは「AI 補正」が入るようになったが…被写体を全く別物に修正してしまう危険性がある？",
+   "url": "https://note.com/aiqa/n/n413e6a748c38",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/雑感",
+   "lang": "ja",
+   "context": {
+    "audience": "AIに関心のある一般層",
+    "placement": "note"
+   },
+   "intent": "AIに関する日々の雑感・問答形式の投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_023",
+   "media": "copy",
+   "content": "W杯ラウンド32 3位通過の配置ルールを解説",
+   "url": "https://note.com/1man_challenge/n/nb4939e2034dc",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "サッカー",
+   "lang": "ja",
+   "context": {
+    "audience": "サッカーファン",
+    "placement": "note"
+   },
+   "intent": "サッカー関連の趣味的投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 11,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_024",
+   "media": "copy",
+   "content": "2030年ワールドカップ日本代表26人の早すぎる予想",
+   "url": "https://note.com/1man_challenge/n/ncf8bc25e5ef0",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "サッカー",
+   "lang": "ja",
+   "context": {
+    "audience": "サッカーファン",
+    "placement": "note"
+   },
+   "intent": "サッカー関連の趣味的投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_025",
+   "media": "copy",
+   "content": "【新選組】激動の幕末！時代に抗い敗れ去った男たちの青春群像劇【Update版】(Shinsengumi)",
+   "url": "https://www.youtube.com/watch?v=IuHgxm4HrJs",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=IuHgxm4HrJs",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/教養",
+   "lang": "ja",
+   "context": {
+    "audience": "教養コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史・偉人解説の教養系動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 1095033,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025,
+   "sub_media": "video_title"
+  },
+  {
+   "id": "it_ext_026",
+   "media": "copy",
+   "content": "【論語と算盤】人は何のために生きるのか？日本経済の父・渋沢栄一が遺した成功の哲学【Update版】(The Analects and the Abacus)",
+   "url": "https://www.youtube.com/watch?v=Fc5gzZoIF-A",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=Fc5gzZoIF-A",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/教養",
+   "lang": "ja",
+   "context": {
+    "audience": "教養コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史・偉人解説の教養系動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 276680,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025,
+   "sub_media": "video_title"
+  },
+  {
+   "id": "it_ext_027",
+   "media": "copy",
+   "content": "【日本史④】明治～近代史！明治維新、世界大戦、そして令和へ【Update版】(Japanese history④)",
+   "url": "https://www.youtube.com/watch?v=mh_RUVDG83s",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=mh_RUVDG83s",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/政治",
+   "lang": "ja",
+   "context": {
+    "audience": "教養・時事コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史解説と時事解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 1023982,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025,
+   "sub_media": "video_title"
+  },
+  {
+   "id": "it_ext_028",
+   "media": "copy",
+   "content": "【小林鷹之】ONE自民 vs NO自民！新たな世代は自民党をぶっ壊せるのか？【総裁選2025】(Takayuki Kobayashi)",
+   "url": "https://www.youtube.com/watch?v=HOtmAW6BdqM",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=HOtmAW6BdqM",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/政治",
+   "lang": "ja",
+   "context": {
+    "audience": "教養・時事コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史解説と時事解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 236984,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025,
+   "sub_media": "video_title"
+  },
+  {
+   "id": "it_ext_029",
+   "media": "copy",
+   "content": "離席したら悪口を言われるのか、検証しました。",
+   "url": "https://www.youtube.com/watch?v=0J3SC17Dau8",
+   "source": "ゆる言語学ラジオ",
+   "verified_from": "https://www.youtube.com/watch?v=0J3SC17Dau8",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "言語学/教養エンタメ",
+   "lang": "ja",
+   "context": {
+    "audience": "言語学・雑学好き",
+    "placement": "YouTube"
+   },
+   "intent": "ゆるい語り口の言語学解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 810616,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "video_title"
+  },
+  {
+   "id": "it_ext_030",
+   "media": "copy",
+   "content": "言語学映画『メッセージ』にマジレスする動画",
+   "url": "https://www.youtube.com/watch?v=Vxd7p4u3O_4",
+   "source": "ゆる言語学ラジオ",
+   "verified_from": "https://www.youtube.com/watch?v=Vxd7p4u3O_4",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "言語学/教養エンタメ",
+   "lang": "ja",
+   "context": {
+    "audience": "言語学・雑学好き",
+    "placement": "YouTube"
+   },
+   "intent": "ゆるい語り口の言語学解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 258859,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026,
+   "sub_media": "video_title"
+  },
+  {
+   "id": "it_ext_031",
+   "media": "copy",
+   "content": "日本では語られない海外マーケティングの新常識",
+   "url": "https://note.com/kotobashira/n/n2e7e3dde1f54",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マーケティング",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "海外事例の紹介による差別化",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_032",
+   "media": "copy",
+   "content": "月1万円目指すnote戦略ロードマップ：データが語る『稼ぐ』ための真実",
+   "url": "https://note.com/1man_challenge/n/ndfba5300a4cd",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "副業/note運用",
+   "lang": "ja",
+   "context": {
+    "audience": "note初心者",
+    "placement": "note"
+   },
+   "intent": "実践ロードマップの提示",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_033",
+   "media": "copy",
+   "content": "ハンディファンで通勤が変わる",
+   "url": "https://note.com/1man_challenge/n/nf00e1b0d5f10",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "ガジェット",
+   "lang": "ja",
+   "context": {
+    "audience": "通勤者",
+    "placement": "note"
+   },
+   "intent": "日用品レビュー",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_034",
+   "media": "copy",
+   "content": "エビデンスで子育ての迷いが減る",
+   "url": "https://note.com/1man_challenge/n/nc5b31a0aac1a",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "子育て",
+   "lang": "ja",
+   "context": {
+    "audience": "子育て中の親",
+    "placement": "note"
+   },
+   "intent": "エビデンスベースの安心提供",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_035",
+   "media": "copy",
+   "content": "副業1年が過ぎて、ようやく素直に認められること",
+   "url": "https://note.com/1man_challenge/n/nc704ef8375f5",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "エッセイ/副業",
+   "lang": "ja",
+   "context": {
+    "audience": "副業に取り組む人",
+    "placement": "note"
+   },
+   "intent": "1年間の振り返りエッセイ",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_036",
+   "media": "copy",
+   "content": "PlayStation の 2028 年ディスク版廃止は SIE のみではなく、サードパーティ全てで？",
+   "url": "https://note.com/aiqa/n/n10a31a9d4dc6",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "ゲーム/ガジェット",
+   "lang": "ja",
+   "context": {
+    "audience": "ゲーム業界関係者・ファン",
+    "placement": "note"
+   },
+   "intent": "業界動向への考察提起",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_037",
+   "media": "copy",
+   "content": "錬金術の始まりは「金」を作ろうなんて馬鹿の発想ではないのか？",
+   "url": "https://note.com/aiqa/n/nb506a60482e4",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/雑学",
+   "lang": "ja",
+   "context": {
+    "audience": "雑学好き",
+    "placement": "note"
+   },
+   "intent": "歴史ネタへの問いかけ",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_038",
+   "media": "copy",
+   "content": "銀行はなぜ「15 時まで」なのか？",
+   "url": "https://note.com/aiqa/n/nab0924bb0334",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "雑学",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "note"
+   },
+   "intent": "身近な疑問への問いかけ",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_039",
+   "media": "copy",
+   "content": "猫は「人間の赤ん坊は何もできない」と理解しているのか？",
+   "url": "https://note.com/aiqa/n/n08830395e80f",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "雑学/ペット",
+   "lang": "ja",
+   "context": {
+    "audience": "猫好き・雑学好き",
+    "placement": "note"
+   },
+   "intent": "動物ネタへの問いかけ",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_040",
+   "media": "copy",
+   "content": "ホームページのブログとnote、何が違うの？",
+   "url": "https://note.com/shimomayu/n/nd45098bb20e7",
+   "source": "しもまゆ (note)",
+   "verified_from": "https://note.com/api/v2/creators/shimomayu/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マーケティング/note運用",
+   "lang": "ja",
+   "context": {
+    "audience": "note講座受講者・中小企業経営者",
+    "placement": "note"
+   },
+   "intent": "疑問解消系の教育コンテンツ",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_041",
+   "media": "copy",
+   "content": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針",
+   "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+   "source": "GMO Flatt Security Blog",
+   "verified_from": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "セキュリティ",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア/セキュリティ担当者",
+    "placement": "はてなブログ"
+   },
+   "intent": "対応指針の共有",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_042",
+   "media": "copy",
+   "content": "AIによる工数削減を計測して見えた結果と考察",
+   "url": "https://techblog.zozo.com/entry/rethinking-ai",
+   "source": "ZOZO TECH BLOG",
+   "verified_from": "https://techblog.zozo.com/entry/rethinking-ai",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/ビジネス",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニアリング組織のマネージャー",
+    "placement": "はてなブログ"
+   },
+   "intent": "AI導入効果の定量報告",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_043",
+   "media": "copy",
+   "content": "手離れするインフラ設計を考える",
+   "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+   "source": "/var/www/yatta47.log",
+   "verified_from": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "インフラ/エンジニアリング",
+   "lang": "ja",
+   "context": {
+    "audience": "インフラエンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "設計思想の共有",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_044",
+   "media": "copy",
+   "content": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ",
+   "url": "https://tech.jxpress.net/entry/2026/07/13/113000",
+   "source": "JX通信社エンジニアブログ",
+   "verified_from": "https://tech.jxpress.net/entry/2026/07/13/113000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "エンジニアリング",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "技術ノウハウの布教",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_045",
+   "media": "copy",
+   "content": "「間に合いませんでした」をスプリント最終日に言わないために",
+   "url": "https://blog.cybozu.io/entry/2026/07/16/113000",
+   "source": "Cybozu Inside Out",
+   "verified_from": "https://blog.cybozu.io/entry/2026/07/16/113000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マネジメント/開発プロセス",
+   "lang": "ja",
+   "context": {
+    "audience": "スクラムチームのメンバー",
+    "placement": "はてなブログ"
+   },
+   "intent": "プロセス改善のノウハウ共有",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_046",
+   "media": "copy",
+   "content": "夏のヤオコーカツオと長谷川あかりさんの薬味たっぷり出汁カレー",
+   "url": "https://moognyk.jp/entry/2026/07/16/120000",
+   "source": "I AM A DOG",
+   "verified_from": "https://moognyk.jp/entry/2026/07/16/120000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "料理",
+   "lang": "ja",
+   "context": {
+    "audience": "料理好きな一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "レシピ紹介",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_047",
+   "media": "copy",
+   "content": "砂防法の過料500円",
+   "url": "https://blog.starry.blue/entry/2026/07/13/100233",
+   "source": "Avoid a void",
+   "verified_from": "https://blog.starry.blue/entry/2026/07/13/100233",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "法律雑学",
+   "lang": "ja",
+   "context": {
+    "audience": "法律・行政に関心のある層",
+    "placement": "はてなブログ"
+   },
+   "intent": "マイナーな法律ネタの紹介",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_048",
+   "media": "copy",
+   "content": "【すべて1人泊可能】2026年はここに泊まりたい！各都道府県から1軒ずつ、一番泊まりたい宿を選出した【全47軒】",
+   "url": "https://www.yamaonsen.com/entry/onsen_houhu2026",
+   "source": "温泉ブログ 山と温泉のきろく",
+   "verified_from": "https://www.yamaonsen.com/entry/onsen_houhu2026",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "旅行",
+   "lang": "ja",
+   "context": {
+    "audience": "ひとり旅・温泉好き",
+    "placement": "はてなブログ"
+   },
+   "intent": "宿の網羅的キュレーション",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_049",
+   "media": "copy",
+   "content": "価値はスケールしない。発酵する。",
+   "url": "https://kaz-ataka.hatenablog.com/entry/2026/07/11/125654",
+   "source": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+   "verified_from": "https://kaz-ataka.hatenablog.com/entry/2026/07/11/125654",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マーケティング/経営",
+   "lang": "ja",
+   "context": {
+    "audience": "マーケター・経営者",
+    "placement": "はてなブログ"
+   },
+   "intent": "比喩を用いた考察の提示",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  },
+  {
+   "id": "it_ext_050",
+   "media": "copy",
+   "content": "浜田省吾＠NHKホールのライブのこと",
+   "url": "https://www.wasteofpops.com/entry/2026/07/17/000000",
+   "source": "WASTE OF POPS 80s-90s",
+   "verified_from": "https://www.wasteofpops.com/entry/2026/07/17/000000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "音楽/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "音楽ファン",
+    "placement": "はてなブログ"
+   },
+   "intent": "ライブレポートエッセイ",
+   "result_data": null,
+   "created_year": 2026,
+   "sub_media": "headline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "q_plan_a_000",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_000a",
+    "it_plan_000b"
+   ],
+   "context_shown": {
+    "audience": "車を買い替えたい30〜40代",
+    "placement": "YouTube 15分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_b_000",
+   "mode": "judge",
+   "format": "B",
+   "item_ids": [
+    "it_plan_000b"
+   ],
+   "context_shown": {
+    "audience": "車を買い替えたい30〜40代",
+    "placement": "YouTube 15分"
+   },
+   "prompt": "一箇所だけ直せるとしたら、どこですか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_plan_a_001",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_001a",
+    "it_plan_001b"
+   ],
+   "context_shown": {
+    "audience": "自炊を続けられない人",
+    "placement": "YouTube 10分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_002",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_002a",
+    "it_plan_002b"
+   ],
+   "context_shown": {
+    "audience": "ベランダ菜園を始めた人",
+    "placement": "YouTube 8分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_003",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_003a",
+    "it_plan_003b"
+   ],
+   "context_shown": {
+    "audience": "資格を取ろうとしている社会人",
+    "placement": "note 記事"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_b_003",
+   "mode": "judge",
+   "format": "B",
+   "item_ids": [
+    "it_plan_003b"
+   ],
+   "context_shown": {
+    "audience": "資格を取ろうとしている社会人",
+    "placement": "note 記事"
+   },
+   "prompt": "一箇所だけ直せるとしたら、どこですか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_plan_a_004",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_004a",
+    "it_plan_004b"
+   ],
+   "context_shown": {
+    "audience": "親の介護が始まった人",
+    "placement": "note 記事"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_005",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_005a",
+    "it_plan_005b"
+   ],
+   "context_shown": {
+    "audience": "釣りを始めたばかりの人",
+    "placement": "YouTube 12分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_006",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_006a",
+    "it_plan_006b"
+   ],
+   "context_shown": {
+    "audience": "古着に興味が出てきた20代",
+    "placement": "YouTube 10分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_b_006",
+   "mode": "judge",
+   "format": "B",
+   "item_ids": [
+    "it_plan_006b"
+   ],
+   "context_shown": {
+    "audience": "古着に興味が出てきた20代",
+    "placement": "YouTube 10分"
+   },
+   "prompt": "一箇所だけ直せるとしたら、どこですか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_plan_a_007",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_007a",
+    "it_plan_007b"
+   ],
+   "context_shown": {
+    "audience": "旅行好き全般",
+    "placement": "YouTube 20分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_008",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_008a",
+    "it_plan_008b"
+   ],
+   "context_shown": {
+    "audience": "歯医者が苦手な人",
+    "placement": "note 記事"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_009",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_009a",
+    "it_plan_009b"
+   ],
+   "context_shown": {
+    "audience": "家族で遊ぶものを探している人",
+    "placement": "YouTube 14分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_b_009",
+   "mode": "judge",
+   "format": "B",
+   "item_ids": [
+    "it_plan_009b"
+   ],
+   "context_shown": {
+    "audience": "家族で遊ぶものを探している人",
+    "placement": "YouTube 14分"
+   },
+   "prompt": "一箇所だけ直せるとしたら、どこですか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_plan_a_010",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_010a",
+    "it_plan_010b"
+   ],
+   "context_shown": {
+    "audience": "ドキュメンタリー好き",
+    "placement": "YouTube 18分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_011",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_011a",
+    "it_plan_011b"
+   ],
+   "context_shown": {
+    "audience": "仕事道具にこだわる人",
+    "placement": "note 記事"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_012",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_012a",
+    "it_plan_012b"
+   ],
+   "context_shown": {
+    "audience": "一次産業に関心がある人",
+    "placement": "YouTube 16分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_b_012",
+   "mode": "judge",
+   "format": "B",
+   "item_ids": [
+    "it_plan_012b"
+   ],
+   "context_shown": {
+    "audience": "一次産業に関心がある人",
+    "placement": "YouTube 16分"
+   },
+   "prompt": "一箇所だけ直せるとしたら、どこですか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_plan_a_013",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_013a",
+    "it_plan_013b"
+   ],
+   "context_shown": {
+    "audience": "家を建てる予定の人",
+    "placement": "note 記事"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_014",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_014a",
+    "it_plan_014b"
+   ],
+   "context_shown": {
+    "audience": "食のドキュメンタリー好き",
+    "placement": "YouTube 22分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_a_015",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_plan_015a",
+    "it_plan_015b"
+   ],
+   "context_shown": {
+    "audience": "科学に関心のある一般層",
+    "placement": "YouTube 13分"
+   },
+   "prompt": "どちらを通しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_plan_b_015",
+   "mode": "judge",
+   "format": "B",
+   "item_ids": [
+    "it_plan_015b"
+   ],
+   "context_shown": {
+    "audience": "科学に関心のある一般層",
+    "placement": "YouTube 13分"
+   },
+   "prompt": "一箇所だけ直せるとしたら、どこですか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_copy_a_000",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_000a",
+    "it_copy_000b"
+   ],
+   "context_shown": {
+    "audience": "買い替え検討層",
+    "placement": "ディーラーの店頭POP",
+    "note": "下取り査定の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_001",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_001a",
+    "it_copy_001b"
+   ],
+   "context_shown": {
+    "audience": "近隣の家族層",
+    "placement": "駅の看板",
+    "note": "通いやすさの訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_002",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_002a",
+    "it_copy_002b"
+   ],
+   "context_shown": {
+    "audience": "中学生の保護者",
+    "placement": "折込チラシ",
+    "note": "個別指導の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_003",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_003a",
+    "it_copy_003b"
+   ],
+   "context_shown": {
+    "audience": "入居を検討する家族",
+    "placement": "パンフレット表紙",
+    "note": "見学の誘導"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_004",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_004a",
+    "it_copy_004b"
+   ],
+   "context_shown": {
+    "audience": "新築を考える30代",
+    "placement": "Webサイトの見出し",
+    "note": "断熱性能の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_005",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_005a",
+    "it_copy_005b"
+   ],
+   "context_shown": {
+    "audience": "共働き世帯",
+    "placement": "パッケージ",
+    "note": "冷凍餃子の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_006",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_006a",
+    "it_copy_006b"
+   ],
+   "context_shown": {
+    "audience": "20代の転職希望者",
+    "placement": "求人サイトの見出し",
+    "note": "製造業の採用"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_007",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_007a",
+    "it_copy_007b"
+   ],
+   "context_shown": {
+    "audience": "街の通行人",
+    "placement": "店頭の黒板",
+    "note": "来店の誘導"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_008",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_008a",
+    "it_copy_008b"
+   ],
+   "context_shown": {
+    "audience": "近隣住民",
+    "placement": "のぼり",
+    "note": "スーツの訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_009",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_009a",
+    "it_copy_009b"
+   ],
+   "context_shown": {
+    "audience": "運動が続かない層",
+    "placement": "SNS広告",
+    "note": "継続の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_010",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_010a",
+    "it_copy_010b"
+   ],
+   "context_shown": {
+    "audience": "週末の買い物客",
+    "placement": "店内の手書きPOP",
+    "note": "規格外野菜の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_copy_a_011",
+   "mode": "judge",
+   "format": "A",
+   "item_ids": [
+    "it_copy_011a",
+    "it_copy_011b"
+   ],
+   "context_shown": {
+    "audience": "事前相談を考える層",
+    "placement": "新聞広告",
+    "note": "事前相談の訴求"
+   },
+   "prompt": "どちらを出しますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "direction"
+  },
+  {
+   "id": "q_pert_000_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_000",
+    "it_pert_000_0"
+   ],
+   "context_shown": {
+    "placement": "冷凍食品のパッケージ"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_000",
+   "target_layer": "discriminate",
+   "perturbation_type": "語順入替",
+   "reveal": {
+    "note": "改変の種類：語順入替",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_000_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_000_1",
+    "it_orig_000"
+   ],
+   "context_shown": {
+    "placement": "冷凍食品のパッケージ"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_000",
+   "target_layer": "discriminate",
+   "perturbation_type": "一文追加",
+   "reveal": {
+    "note": "改変の種類：一文追加",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_000_2",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_000",
+    "it_pert_000_2"
+   ],
+   "context_shown": {
+    "placement": "冷凍食品のパッケージ"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_000",
+   "target_layer": "discriminate",
+   "perturbation_type": "抽象化",
+   "reveal": {
+    "note": "改変の種類：抽象化",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_001_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_001_0",
+    "it_orig_001"
+   ],
+   "context_shown": {
+    "placement": "店頭の黒板"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_001",
+   "target_layer": "discriminate",
+   "perturbation_type": "語順入替",
+   "reveal": {
+    "note": "改変の種類：語順入替",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_001_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_001",
+    "it_pert_001_1"
+   ],
+   "context_shown": {
+    "placement": "店頭の黒板"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_001",
+   "target_layer": "discriminate",
+   "perturbation_type": "語尾変更",
+   "reveal": {
+    "note": "改変の種類：語尾変更",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_002_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_002_0",
+    "it_orig_002"
+   ],
+   "context_shown": {
+    "placement": "Webの見出し"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_002",
+   "target_layer": "discriminate",
+   "perturbation_type": "具体の削除",
+   "reveal": {
+    "note": "改変の種類：具体の削除",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_002_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_002",
+    "it_pert_002_1"
+   ],
+   "context_shown": {
+    "placement": "Webの見出し"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_002",
+   "target_layer": "discriminate",
+   "perturbation_type": "一文追加",
+   "reveal": {
+    "note": "改変の種類：一文追加",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_003_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_003_0",
+    "it_orig_003"
+   ],
+   "context_shown": {
+    "placement": "YouTube 15分の企画概要"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_003",
+   "target_layer": "discriminate",
+   "perturbation_type": "順序反転",
+   "reveal": {
+    "note": "改変の種類：順序反転",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_003_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_003",
+    "it_pert_003_1"
+   ],
+   "context_shown": {
+    "placement": "YouTube 15分の企画概要"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_003",
+   "target_layer": "discriminate",
+   "perturbation_type": "数字の削除",
+   "reveal": {
+    "note": "改変の種類：数字の削除",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_003_2",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_003_2",
+    "it_orig_003"
+   ],
+   "context_shown": {
+    "placement": "YouTube 15分の企画概要"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_003",
+   "target_layer": "discriminate",
+   "perturbation_type": "冒頭の削除",
+   "reveal": {
+    "note": "改変の種類：冒頭の削除",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_004_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_004",
+    "it_pert_004_0"
+   ],
+   "context_shown": {
+    "placement": "note 記事のリード"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_004",
+   "target_layer": "discriminate",
+   "perturbation_type": "結論の前出し",
+   "reveal": {
+    "note": "改変の種類：結論の前出し",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_004_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_004_1",
+    "it_orig_004"
+   ],
+   "context_shown": {
+    "placement": "note 記事のリード"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_004",
+   "target_layer": "discriminate",
+   "perturbation_type": "接続詞の追加",
+   "reveal": {
+    "note": "改変の種類：接続詞の追加",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_005_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_005",
+    "it_pert_005_0"
+   ],
+   "context_shown": {
+    "placement": "YouTube 12分の企画概要"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_005",
+   "target_layer": "discriminate",
+   "perturbation_type": "制約の削除",
+   "reveal": {
+    "note": "改変の種類：制約の削除",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_005_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_005_1",
+    "it_orig_005"
+   ],
+   "context_shown": {
+    "placement": "YouTube 12分の企画概要"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_005",
+   "target_layer": "discriminate",
+   "perturbation_type": "語順入替",
+   "reveal": {
+    "note": "改変の種類：語順入替",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_006_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_006",
+    "it_pert_006_0"
+   ],
+   "context_shown": {
+    "placement": "note 記事の見出し"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_006",
+   "target_layer": "discriminate",
+   "perturbation_type": "抽象化",
+   "reveal": {
+    "note": "改変の種類：抽象化",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_006_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_006_1",
+    "it_orig_006"
+   ],
+   "context_shown": {
+    "placement": "note 記事の見出し"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_006",
+   "target_layer": "discriminate",
+   "perturbation_type": "一文追加",
+   "reveal": {
+    "note": "改変の種類：一文追加",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_007_0",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_orig_007",
+    "it_pert_007_0"
+   ],
+   "context_shown": {
+    "placement": "note 記事の見出し"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_007",
+   "target_layer": "discriminate",
+   "perturbation_type": "数字の削除",
+   "reveal": {
+    "note": "改変の種類：数字の削除",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_pert_007_1",
+   "mode": "verify",
+   "format": "C",
+   "item_ids": [
+    "it_pert_007_1",
+    "it_orig_007"
+   ],
+   "context_shown": {
+    "placement": "note 記事の見出し"
+   },
+   "prompt": "どちらが元の版だと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_orig_007",
+   "target_layer": "discriminate",
+   "perturbation_type": "語尾変更",
+   "reveal": {
+    "note": "改変の種類：語尾変更",
+    "why": "外したなら、この種類の改変が知覚できていない可能性があります。"
+   }
+  },
+  {
+   "id": "q_ext_d001",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_001",
+    "it_ext_002"
+   ],
+   "context_shown": {
+    "placement": "Hacker News",
+    "note": "同一投稿者(jvns.ca)・2013年12月、5日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_001",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 259 / B: 45 (HN score(points)) 同一投稿者(jvns.ca)・2013年12月、5日違いの投稿",
+    "sources": [
+     "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50",
+     "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d002",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_003",
+    "it_ext_004"
+   ],
+   "context_shown": {
+    "placement": "Hacker News",
+    "note": "同一投稿者(antirez.com)・2010年10月、10日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_003",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 157 / B: 22 (HN score(points)) 同一投稿者(antirez.com)・2010年10月、10日違いの投稿",
+    "sources": [
+     "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50",
+     "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d003",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_005",
+    "it_ext_006"
+   ],
+   "context_shown": {
+    "placement": "Hacker News",
+    "note": "同一投稿者(kalzumeus.com)・2010年、約6週間違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_005",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 359 / B: 31 (HN score(points)) 同一投稿者(kalzumeus.com)・2010年、約6週間違いの投稿",
+    "sources": [
+     "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60",
+     "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d004",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_007",
+    "it_ext_008"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年4月、9日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_007",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 272 / B: 2 (はてなブックマーク数) 同一ブログ・2026年4月、9日違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/08/191049",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/17/201217"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d005",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_009",
+    "it_ext_010"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年、約2.5ヶ月違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_009",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 178 / B: 10 (はてなブックマーク数) 同一ブログ・2026年、約2.5ヶ月違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/07/18/195218",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/05/02/195728"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d006",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_011",
+    "it_ext_012"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年7月、4日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_011",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 57 / B: 0 (はてなブックマーク数) 同一ブログ・2026年7月、4日違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/15/003333",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/11/170329"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d007",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_013",
+    "it_ext_014"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年、半年違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_013",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 52 / B: 2 (はてなブックマーク数) 同一ブログ・2026年、半年違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/01/15/170835"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d008",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_015",
+    "it_ext_016"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年、約3.5ヶ月違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_015",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 52 / B: 0 (はてなブックマーク数) 同一ブログ・2026年、約3.5ヶ月違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/07/13/201143",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/04/01/110408"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d009",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_017",
+    "it_ext_018"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年7月、2日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_017",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 193 / B: 20 (スキ数) 同一著者(note)・2026年7月、2日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d010",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_019",
+    "it_ext_020"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年7月、2日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_019",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 176 / B: 7 (スキ数) 同一著者(note)・2026年7月、2日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d011",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_021",
+    "it_ext_022"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年7月、1日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_021",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 19 / B: 2 (スキ数) 同一著者(note)・2026年7月、1日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d012",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_023",
+    "it_ext_024"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年6月、3日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_023",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 11 / B: 2 (スキ数) 同一著者(note)・2026年6月、3日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d013",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_025",
+    "it_ext_026"
+   ],
+   "context_shown": {
+    "placement": "YouTube",
+    "note": "同一チャンネル・投稿約4ヶ月後時点(2026-07-25閲覧)でどちらも「4か月前」表示"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_025",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 1,095,033回再生 / B: 276,680回再生",
+    "sources": [
+     "https://www.youtube.com/watch?v=IuHgxm4HrJs",
+     "https://www.youtube.com/watch?v=Fc5gzZoIF-A"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d014",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_027",
+    "it_ext_028"
+   ],
+   "context_shown": {
+    "placement": "YouTube",
+    "note": "同一チャンネル・2026-07-25閲覧時点でどちらも「9か月前」表示"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_027",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 1,023,982回再生 / B: 236,984回再生",
+    "sources": [
+     "https://www.youtube.com/watch?v=mh_RUVDG83s",
+     "https://www.youtube.com/watch?v=HOtmAW6BdqM"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d015",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_029",
+    "it_ext_030"
+   ],
+   "context_shown": {
+    "placement": "YouTube",
+    "note": "同一チャンネル・2026-07-25閲覧時点でどちらも「3ヶ月前」表示"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_029",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 810,616回再生 / B: 258,859回再生",
+    "sources": [
+     "https://www.youtube.com/watch?v=0J3SC17Dau8",
+     "https://www.youtube.com/watch?v=Vxd7p4u3O_4"
+    ]
+   }
+  },
+  {
+   "id": "q_s_it_ext_031",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_031"
+   ],
+   "context_shown": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_032",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_032"
+   ],
+   "context_shown": {
+    "audience": "note初心者",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_033",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_033"
+   ],
+   "context_shown": {
+    "audience": "通勤者",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_034",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_034"
+   ],
+   "context_shown": {
+    "audience": "子育て中の親",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_035",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_035"
+   ],
+   "context_shown": {
+    "audience": "副業に取り組む人",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_036",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_036"
+   ],
+   "context_shown": {
+    "audience": "ゲーム業界関係者・ファン",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_037",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_037"
+   ],
+   "context_shown": {
+    "audience": "雑学好き",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_038",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_038"
+   ],
+   "context_shown": {
+    "audience": "一般読者",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_039",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_039"
+   ],
+   "context_shown": {
+    "audience": "猫好き・雑学好き",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_040",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_040"
+   ],
+   "context_shown": {
+    "audience": "note講座受講者・中小企業経営者",
+    "placement": "note"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_041",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_041"
+   ],
+   "context_shown": {
+    "audience": "エンジニア/セキュリティ担当者",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_042",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_042"
+   ],
+   "context_shown": {
+    "audience": "エンジニアリング組織のマネージャー",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_043",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_043"
+   ],
+   "context_shown": {
+    "audience": "インフラエンジニア",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_044",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_044"
+   ],
+   "context_shown": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_045",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_045"
+   ],
+   "context_shown": {
+    "audience": "スクラムチームのメンバー",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_046",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_046"
+   ],
+   "context_shown": {
+    "audience": "料理好きな一般読者",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_047",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_047"
+   ],
+   "context_shown": {
+    "audience": "法律・行政に関心のある層",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_048",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_048"
+   ],
+   "context_shown": {
+    "audience": "ひとり旅・温泉好き",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_049",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_049"
+   ],
+   "context_shown": {
+    "audience": "マーケター・経営者",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  },
+  {
+   "id": "q_s_it_ext_050",
+   "mode": "judge",
+   "format": "S",
+   "item_ids": [
+    "it_ext_050"
+   ],
+   "context_shown": {
+    "audience": "音楽ファン",
+    "placement": "はてなブログ"
+   },
+   "prompt": "これは何を狙っていて、成功していますか",
+   "has_ground_truth": false,
+   "ground_truth": null,
+   "target_layer": "diagnose"
+  }
+ ]
+}

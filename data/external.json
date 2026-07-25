@@ -1,0 +1,1488 @@
+{
+ "version": 1,
+ "collected_at": "2026-07-25",
+ "items": [
+  {
+   "id": "it_ext_001",
+   "media": "headline",
+   "content": "After 5 days, my OS doesn't crash when I press a key",
+   "url": "https://news.ycombinator.com/item?id=6852423",
+   "source": "Hacker News (submitted by jvns / Julia Evans, jvns.ca)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "自作OS連載ブログの進捗共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 259,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2013
+  },
+  {
+   "id": "it_ext_002",
+   "media": "headline",
+   "content": "Writing malloc wrong, for fun",
+   "url": "https://news.ycombinator.com/item?id=6879212",
+   "source": "Hacker News (submitted by jvns / Julia Evans, jvns.ca)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "自作OS連載ブログの進捗共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 45,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2013
+  },
+  {
+   "id": "it_ext_003",
+   "media": "headline",
+   "content": "What's wrong with 2006 programming?",
+   "url": "https://news.ycombinator.com/item?id=1760540",
+   "source": "Hacker News (submitted by antirez / Salvatore Sanfilippo, antirez.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでの技術エッセイ・Tips共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 157,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010
+  },
+  {
+   "id": "it_ext_004",
+   "media": "headline",
+   "content": "Redis as an LRU cache (and the mystery of port 6379)",
+   "url": "https://news.ycombinator.com/item?id=1795316",
+   "source": "Hacker News (submitted by antirez / Salvatore Sanfilippo, antirez.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでの技術エッセイ・Tips共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 22,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010
+  },
+  {
+   "id": "it_ext_005",
+   "media": "headline",
+   "content": "Running a Software Business on 5 Hours A Week",
+   "url": "https://news.ycombinator.com/item?id=1206649",
+   "source": "Hacker News (submitted by patio11 / Patrick McKenzie, kalzumeus.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "スタートアップ/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "起業家・個人開発者",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでのビジネス運営ノウハウ共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 359,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010
+  },
+  {
+   "id": "it_ext_006",
+   "media": "headline",
+   "content": "Dashboard Design For Metrics-Savvy Software Companies",
+   "url": "https://news.ycombinator.com/item?id=1112500",
+   "source": "Hacker News (submitted by patio11 / Patrick McKenzie, kalzumeus.com)",
+   "verified_from": "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "スタートアップ/個人ブログ",
+   "lang": "en",
+   "context": {
+    "audience": "起業家・個人開発者",
+    "placement": "Hacker News"
+   },
+   "intent": "個人ブログでのビジネス運営ノウハウ共有",
+   "result_data": {
+    "metric": "HN score(points)",
+    "value": 31,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2010
+  },
+  {
+   "id": "it_ext_007",
+   "media": "headline",
+   "content": "ダイソーの種で育てやすいのはどれか",
+   "url": "https://shinonomen.hatenablog.com/entry/2026/04/08/191049",
+   "source": "東雲製作所 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/08/191049",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "園芸/生活",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "生活系ネタのブログ記事",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 272,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_008",
+   "media": "headline",
+   "content": "大型テック株に集中投資する投資信託比較",
+   "url": "https://shinonomen.hatenablog.com/entry/2026/04/17/201217",
+   "source": "東雲製作所 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/17/201217",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "園芸/生活",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "生活系ネタのブログ記事",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_009",
+   "media": "headline",
+   "content": "非名古屋民が「味噌カツ」の尋常ならざるおいしさを発見した話",
+   "url": "https://kokorosha.hatenablog.com/entry/2026/07/18/195218",
+   "source": "ココロ社 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/07/18/195218",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "食/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "食や街歩きの個人エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 178,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_010",
+   "media": "headline",
+   "content": "首都圏の異界にして穴場、逗子の「まんだら堂やぐら群」",
+   "url": "https://kokorosha.hatenablog.com/entry/2026/05/02/195728",
+   "source": "ココロ社 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/05/02/195728",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "食/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "食や街歩きの個人エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 10,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_011",
+   "media": "headline",
+   "content": "3 の倍数と 3 がつく数のときだけ、浮動小数点誤差でアホになる世界のナベアツ",
+   "url": "https://rsk0315.hatenablog.com/entry/2026/07/15/003333",
+   "source": "えびちゃんの日記 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/15/003333",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/数学",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "競プロ・技術ネタの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 57,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_012",
+   "media": "headline",
+   "content": "浮動小数点型の除算に対する第二原像攻撃",
+   "url": "https://rsk0315.hatenablog.com/entry/2026/07/11/170329",
+   "source": "えびちゃんの日記 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/11/170329",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "プログラミング/数学",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "競プロ・技術ネタの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 0,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_013",
+   "media": "headline",
+   "content": "『探偵！ナイトスクープ』で思い出した、デブサミ誕生秘話ーなぜデブサミは5トラック同時開催になったのか？",
+   "url": "https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+   "source": "希望log (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "IT業界/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "IT業界関係者",
+    "placement": "はてなブログ"
+   },
+   "intent": "IT業界の思い出・組織論エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 52,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_014",
+   "media": "headline",
+   "content": "自己組織化の手法と透明性",
+   "url": "https://iwakiri.hatenablog.com/entry/2026/01/15/170835",
+   "source": "希望log (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/01/15/170835",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "IT業界/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "IT業界関係者",
+    "placement": "はてなブログ"
+   },
+   "intent": "IT業界の思い出・組織論エッセイ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_015",
+   "media": "headline",
+   "content": "文章や資料からAI臭をなくす方法",
+   "url": "https://mimifuwacc.hatenablog.com/entry/2026/07/13/201143",
+   "source": "ハーフダチョウ研究会 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/07/13/201143",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/ライティング",
+   "lang": "ja",
+   "context": {
+    "audience": "ビジネスパーソン",
+    "placement": "はてなブログ"
+   },
+   "intent": "AI活用Tipsの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 52,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_016",
+   "media": "headline",
+   "content": "株式会社はてなに入社しました",
+   "url": "https://mimifuwacc.hatenablog.com/entry/2026/04/01/110408",
+   "source": "ハーフダチョウ研究会 (はてなブログ)",
+   "verified_from": "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/04/01/110408",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/ライティング",
+   "lang": "ja",
+   "context": {
+    "audience": "ビジネスパーソン",
+    "placement": "はてなブログ"
+   },
+   "intent": "AI活用Tipsの個人ブログ",
+   "result_data": {
+    "metric": "はてなブックマーク数",
+    "value": 0,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_017",
+   "media": "headline",
+   "content": "ChatGPTを使っても稼げない人の共通点",
+   "url": "https://note.com/kotobashira/n/na88ffba640b4",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/副業",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 193,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_018",
+   "media": "headline",
+   "content": "報酬画面のスクショはもう証拠にならない｜AI時代で生き残る差別化戦略",
+   "url": "https://note.com/kotobashira/n/na0ed487ec98a",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/副業",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 20,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_019",
+   "media": "headline",
+   "content": "AIで記事を書いても読まれない本当の理由",
+   "url": "https://note.com/kotobashira/n/n61e7fc92b57b",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/コンテンツ制作",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 176,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_020",
+   "media": "headline",
+   "content": "収益化停止16チャンネル・3500万人分の喪失から見える、量産型から抜けて独自の情報発信を築くヒント",
+   "url": "https://note.com/kotobashira/n/n311c81f86518",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/コンテンツ制作",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "AI活用ビジネス系の個人発信",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 7,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_021",
+   "media": "headline",
+   "content": "AI が奪ったのは「仕事」ではなく「情熱」か？",
+   "url": "https://note.com/aiqa/n/na95f452d14b9",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/雑感",
+   "lang": "ja",
+   "context": {
+    "audience": "AIに関心のある一般層",
+    "placement": "note"
+   },
+   "intent": "AIに関する日々の雑感・問答形式の投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 19,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_022",
+   "media": "headline",
+   "content": "スマホのカメラは「AI 補正」が入るようになったが…被写体を全く別物に修正してしまう危険性がある？",
+   "url": "https://note.com/aiqa/n/n413e6a748c38",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/雑感",
+   "lang": "ja",
+   "context": {
+    "audience": "AIに関心のある一般層",
+    "placement": "note"
+   },
+   "intent": "AIに関する日々の雑感・問答形式の投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_023",
+   "media": "headline",
+   "content": "W杯ラウンド32 3位通過の配置ルールを解説",
+   "url": "https://note.com/1man_challenge/n/nb4939e2034dc",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "サッカー",
+   "lang": "ja",
+   "context": {
+    "audience": "サッカーファン",
+    "placement": "note"
+   },
+   "intent": "サッカー関連の趣味的投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 11,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_024",
+   "media": "headline",
+   "content": "2030年ワールドカップ日本代表26人の早すぎる予想",
+   "url": "https://note.com/1man_challenge/n/ncf8bc25e5ef0",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "サッカー",
+   "lang": "ja",
+   "context": {
+    "audience": "サッカーファン",
+    "placement": "note"
+   },
+   "intent": "サッカー関連の趣味的投稿",
+   "result_data": {
+    "metric": "スキ数",
+    "value": 2,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_025",
+   "media": "video_title",
+   "content": "【新選組】激動の幕末！時代に抗い敗れ去った男たちの青春群像劇【Update版】(Shinsengumi)",
+   "url": "https://www.youtube.com/watch?v=IuHgxm4HrJs",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=IuHgxm4HrJs",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/教養",
+   "lang": "ja",
+   "context": {
+    "audience": "教養コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史・偉人解説の教養系動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 1095033,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025
+  },
+  {
+   "id": "it_ext_026",
+   "media": "video_title",
+   "content": "【論語と算盤】人は何のために生きるのか？日本経済の父・渋沢栄一が遺した成功の哲学【Update版】(The Analects and the Abacus)",
+   "url": "https://www.youtube.com/watch?v=Fc5gzZoIF-A",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=Fc5gzZoIF-A",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/教養",
+   "lang": "ja",
+   "context": {
+    "audience": "教養コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史・偉人解説の教養系動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 276680,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025
+  },
+  {
+   "id": "it_ext_027",
+   "media": "video_title",
+   "content": "【日本史④】明治～近代史！明治維新、世界大戦、そして令和へ【Update版】(Japanese history④)",
+   "url": "https://www.youtube.com/watch?v=mh_RUVDG83s",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=mh_RUVDG83s",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/政治",
+   "lang": "ja",
+   "context": {
+    "audience": "教養・時事コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史解説と時事解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 1023982,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025
+  },
+  {
+   "id": "it_ext_028",
+   "media": "video_title",
+   "content": "【小林鷹之】ONE自民 vs NO自民！新たな世代は自民党をぶっ壊せるのか？【総裁選2025】(Takayuki Kobayashi)",
+   "url": "https://www.youtube.com/watch?v=HOtmAW6BdqM",
+   "source": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY",
+   "verified_from": "https://www.youtube.com/watch?v=HOtmAW6BdqM",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/政治",
+   "lang": "ja",
+   "context": {
+    "audience": "教養・時事コンテンツ視聴者",
+    "placement": "YouTube"
+   },
+   "intent": "歴史解説と時事解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 236984,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2025
+  },
+  {
+   "id": "it_ext_029",
+   "media": "video_title",
+   "content": "離席したら悪口を言われるのか、検証しました。",
+   "url": "https://www.youtube.com/watch?v=0J3SC17Dau8",
+   "source": "ゆる言語学ラジオ",
+   "verified_from": "https://www.youtube.com/watch?v=0J3SC17Dau8",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "言語学/教養エンタメ",
+   "lang": "ja",
+   "context": {
+    "audience": "言語学・雑学好き",
+    "placement": "YouTube"
+   },
+   "intent": "ゆるい語り口の言語学解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 810616,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_030",
+   "media": "video_title",
+   "content": "言語学映画『メッセージ』にマジレスする動画",
+   "url": "https://www.youtube.com/watch?v=Vxd7p4u3O_4",
+   "source": "ゆる言語学ラジオ",
+   "verified_from": "https://www.youtube.com/watch?v=Vxd7p4u3O_4",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "言語学/教養エンタメ",
+   "lang": "ja",
+   "context": {
+    "audience": "言語学・雑学好き",
+    "placement": "YouTube"
+   },
+   "intent": "ゆるい語り口の言語学解説動画",
+   "result_data": {
+    "metric": "再生数",
+    "value": 258859,
+    "measured_at": "2026-07-25"
+   },
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_031",
+   "media": "headline",
+   "content": "日本では語られない海外マーケティングの新常識",
+   "url": "https://note.com/kotobashira/n/n2e7e3dde1f54",
+   "source": "そうた (note)",
+   "verified_from": "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マーケティング",
+   "lang": "ja",
+   "context": {
+    "audience": "AI副業に関心のある層",
+    "placement": "note"
+   },
+   "intent": "海外事例の紹介による差別化",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_032",
+   "media": "headline",
+   "content": "月1万円目指すnote戦略ロードマップ：データが語る『稼ぐ』ための真実",
+   "url": "https://note.com/1man_challenge/n/ndfba5300a4cd",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "副業/note運用",
+   "lang": "ja",
+   "context": {
+    "audience": "note初心者",
+    "placement": "note"
+   },
+   "intent": "実践ロードマップの提示",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_033",
+   "media": "headline",
+   "content": "ハンディファンで通勤が変わる",
+   "url": "https://note.com/1man_challenge/n/nf00e1b0d5f10",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "ガジェット",
+   "lang": "ja",
+   "context": {
+    "audience": "通勤者",
+    "placement": "note"
+   },
+   "intent": "日用品レビュー",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_034",
+   "media": "headline",
+   "content": "エビデンスで子育ての迷いが減る",
+   "url": "https://note.com/1man_challenge/n/nc5b31a0aac1a",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "子育て",
+   "lang": "ja",
+   "context": {
+    "audience": "子育て中の親",
+    "placement": "note"
+   },
+   "intent": "エビデンスベースの安心提供",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_035",
+   "media": "headline",
+   "content": "副業1年が過ぎて、ようやく素直に認められること",
+   "url": "https://note.com/1man_challenge/n/nc704ef8375f5",
+   "source": "note で月1万いくまでやってみる人 (note)",
+   "verified_from": "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "エッセイ/副業",
+   "lang": "ja",
+   "context": {
+    "audience": "副業に取り組む人",
+    "placement": "note"
+   },
+   "intent": "1年間の振り返りエッセイ",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_036",
+   "media": "headline",
+   "content": "PlayStation の 2028 年ディスク版廃止は SIE のみではなく、サードパーティ全てで？",
+   "url": "https://note.com/aiqa/n/n10a31a9d4dc6",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "ゲーム/ガジェット",
+   "lang": "ja",
+   "context": {
+    "audience": "ゲーム業界関係者・ファン",
+    "placement": "note"
+   },
+   "intent": "業界動向への考察提起",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_037",
+   "media": "headline",
+   "content": "錬金術の始まりは「金」を作ろうなんて馬鹿の発想ではないのか？",
+   "url": "https://note.com/aiqa/n/nb506a60482e4",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "歴史/雑学",
+   "lang": "ja",
+   "context": {
+    "audience": "雑学好き",
+    "placement": "note"
+   },
+   "intent": "歴史ネタへの問いかけ",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_038",
+   "media": "headline",
+   "content": "銀行はなぜ「15 時まで」なのか？",
+   "url": "https://note.com/aiqa/n/nab0924bb0334",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "雑学",
+   "lang": "ja",
+   "context": {
+    "audience": "一般読者",
+    "placement": "note"
+   },
+   "intent": "身近な疑問への問いかけ",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_039",
+   "media": "headline",
+   "content": "猫は「人間の赤ん坊は何もできない」と理解しているのか？",
+   "url": "https://note.com/aiqa/n/n08830395e80f",
+   "source": "霧山哀のAI問答 (note)",
+   "verified_from": "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "雑学/ペット",
+   "lang": "ja",
+   "context": {
+    "audience": "猫好き・雑学好き",
+    "placement": "note"
+   },
+   "intent": "動物ネタへの問いかけ",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_040",
+   "media": "headline",
+   "content": "ホームページのブログとnote、何が違うの？",
+   "url": "https://note.com/shimomayu/n/nd45098bb20e7",
+   "source": "しもまゆ (note)",
+   "verified_from": "https://note.com/api/v2/creators/shimomayu/contents?kind=note&page=1",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マーケティング/note運用",
+   "lang": "ja",
+   "context": {
+    "audience": "note講座受講者・中小企業経営者",
+    "placement": "note"
+   },
+   "intent": "疑問解消系の教育コンテンツ",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_041",
+   "media": "headline",
+   "content": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針",
+   "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+   "source": "GMO Flatt Security Blog",
+   "verified_from": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "セキュリティ",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア/セキュリティ担当者",
+    "placement": "はてなブログ"
+   },
+   "intent": "対応指針の共有",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_042",
+   "media": "headline",
+   "content": "AIによる工数削減を計測して見えた結果と考察",
+   "url": "https://techblog.zozo.com/entry/rethinking-ai",
+   "source": "ZOZO TECH BLOG",
+   "verified_from": "https://techblog.zozo.com/entry/rethinking-ai",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "AI/ビジネス",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニアリング組織のマネージャー",
+    "placement": "はてなブログ"
+   },
+   "intent": "AI導入効果の定量報告",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_043",
+   "media": "headline",
+   "content": "手離れするインフラ設計を考える",
+   "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+   "source": "/var/www/yatta47.log",
+   "verified_from": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "インフラ/エンジニアリング",
+   "lang": "ja",
+   "context": {
+    "audience": "インフラエンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "設計思想の共有",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_044",
+   "media": "headline",
+   "content": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ",
+   "url": "https://tech.jxpress.net/entry/2026/07/13/113000",
+   "source": "JX通信社エンジニアブログ",
+   "verified_from": "https://tech.jxpress.net/entry/2026/07/13/113000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "エンジニアリング",
+   "lang": "ja",
+   "context": {
+    "audience": "エンジニア",
+    "placement": "はてなブログ"
+   },
+   "intent": "技術ノウハウの布教",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_045",
+   "media": "headline",
+   "content": "「間に合いませんでした」をスプリント最終日に言わないために",
+   "url": "https://blog.cybozu.io/entry/2026/07/16/113000",
+   "source": "Cybozu Inside Out",
+   "verified_from": "https://blog.cybozu.io/entry/2026/07/16/113000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マネジメント/開発プロセス",
+   "lang": "ja",
+   "context": {
+    "audience": "スクラムチームのメンバー",
+    "placement": "はてなブログ"
+   },
+   "intent": "プロセス改善のノウハウ共有",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_046",
+   "media": "headline",
+   "content": "夏のヤオコーカツオと長谷川あかりさんの薬味たっぷり出汁カレー",
+   "url": "https://moognyk.jp/entry/2026/07/16/120000",
+   "source": "I AM A DOG",
+   "verified_from": "https://moognyk.jp/entry/2026/07/16/120000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "料理",
+   "lang": "ja",
+   "context": {
+    "audience": "料理好きな一般読者",
+    "placement": "はてなブログ"
+   },
+   "intent": "レシピ紹介",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_047",
+   "media": "headline",
+   "content": "砂防法の過料500円",
+   "url": "https://blog.starry.blue/entry/2026/07/13/100233",
+   "source": "Avoid a void",
+   "verified_from": "https://blog.starry.blue/entry/2026/07/13/100233",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "法律雑学",
+   "lang": "ja",
+   "context": {
+    "audience": "法律・行政に関心のある層",
+    "placement": "はてなブログ"
+   },
+   "intent": "マイナーな法律ネタの紹介",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_048",
+   "media": "headline",
+   "content": "【すべて1人泊可能】2026年はここに泊まりたい！各都道府県から1軒ずつ、一番泊まりたい宿を選出した【全47軒】",
+   "url": "https://www.yamaonsen.com/entry/onsen_houhu2026",
+   "source": "温泉ブログ 山と温泉のきろく",
+   "verified_from": "https://www.yamaonsen.com/entry/onsen_houhu2026",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "旅行",
+   "lang": "ja",
+   "context": {
+    "audience": "ひとり旅・温泉好き",
+    "placement": "はてなブログ"
+   },
+   "intent": "宿の網羅的キュレーション",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_049",
+   "media": "headline",
+   "content": "価値はスケールしない。発酵する。",
+   "url": "https://kaz-ataka.hatenablog.com/entry/2026/07/11/125654",
+   "source": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+   "verified_from": "https://kaz-ataka.hatenablog.com/entry/2026/07/11/125654",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "マーケティング/経営",
+   "lang": "ja",
+   "context": {
+    "audience": "マーケター・経営者",
+    "placement": "はてなブログ"
+   },
+   "intent": "比喩を用いた考察の提示",
+   "result_data": null,
+   "created_year": 2026
+  },
+  {
+   "id": "it_ext_050",
+   "media": "headline",
+   "content": "浜田省吾＠NHKホールのライブのこと",
+   "url": "https://www.wasteofpops.com/entry/2026/07/17/000000",
+   "source": "WASTE OF POPS 80s-90s",
+   "verified_from": "https://www.wasteofpops.com/entry/2026/07/17/000000",
+   "is_famous": false,
+   "origin": "external",
+   "completion": "finished",
+   "domain": "音楽/エッセイ",
+   "lang": "ja",
+   "context": {
+    "audience": "音楽ファン",
+    "placement": "はてなブログ"
+   },
+   "intent": "ライブレポートエッセイ",
+   "result_data": null,
+   "created_year": 2026
+  }
+ ],
+ "questions": [
+  {
+   "id": "q_ext_d001",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_001",
+    "it_ext_002"
+   ],
+   "context_shown": {
+    "placement": "Hacker News",
+    "note": "同一投稿者(jvns.ca)・2013年12月、5日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_001",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 259 / B: 45 (HN score(points)) 同一投稿者(jvns.ca)・2013年12月、5日違いの投稿",
+    "sources": [
+     "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50",
+     "https://hn.algolia.com/api/v1/search?tags=story,author_jvns&hitsPerPage=50"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d002",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_003",
+    "it_ext_004"
+   ],
+   "context_shown": {
+    "placement": "Hacker News",
+    "note": "同一投稿者(antirez.com)・2010年10月、10日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_003",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 157 / B: 22 (HN score(points)) 同一投稿者(antirez.com)・2010年10月、10日違いの投稿",
+    "sources": [
+     "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50",
+     "https://hn.algolia.com/api/v1/search?tags=story,author_antirez&hitsPerPage=50"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d003",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_005",
+    "it_ext_006"
+   ],
+   "context_shown": {
+    "placement": "Hacker News",
+    "note": "同一投稿者(kalzumeus.com)・2010年、約6週間違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_005",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 359 / B: 31 (HN score(points)) 同一投稿者(kalzumeus.com)・2010年、約6週間違いの投稿",
+    "sources": [
+     "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60",
+     "https://hn.algolia.com/api/v1/search?tags=story,author_patio11&hitsPerPage=60"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d004",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_007",
+    "it_ext_008"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年4月、9日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_007",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 272 / B: 2 (はてなブックマーク数) 同一ブログ・2026年4月、9日違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/08/191049",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://shinonomen.hatenablog.com/entry/2026/04/17/201217"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d005",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_009",
+    "it_ext_010"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年、約2.5ヶ月違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_009",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 178 / B: 10 (はてなブックマーク数) 同一ブログ・2026年、約2.5ヶ月違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/07/18/195218",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://kokorosha.hatenablog.com/entry/2026/05/02/195728"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d006",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_011",
+    "it_ext_012"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年7月、4日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_011",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 57 / B: 0 (はてなブックマーク数) 同一ブログ・2026年7月、4日違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/15/003333",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://rsk0315.hatenablog.com/entry/2026/07/11/170329"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d007",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_013",
+    "it_ext_014"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年、半年違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_013",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 52 / B: 2 (はてなブックマーク数) 同一ブログ・2026年、半年違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://iwakiri.hatenablog.com/entry/2026/01/15/170835"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d008",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_015",
+    "it_ext_016"
+   ],
+   "context_shown": {
+    "placement": "はてなブログ",
+    "note": "同一ブログ・2026年、約3.5ヶ月違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_015",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 52 / B: 0 (はてなブックマーク数) 同一ブログ・2026年、約3.5ヶ月違いの投稿",
+    "sources": [
+     "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/07/13/201143",
+     "https://bookmark.hatenaapis.com/count/entry?url=https://mimifuwacc.hatenablog.com/entry/2026/04/01/110408"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d009",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_017",
+    "it_ext_018"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年7月、2日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_017",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 193 / B: 20 (スキ数) 同一著者(note)・2026年7月、2日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d010",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_019",
+    "it_ext_020"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年7月、2日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_019",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 176 / B: 7 (スキ数) 同一著者(note)・2026年7月、2日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/kotobashira/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d011",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_021",
+    "it_ext_022"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年7月、1日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_021",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 19 / B: 2 (スキ数) 同一著者(note)・2026年7月、1日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/aiqa/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d012",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_023",
+    "it_ext_024"
+   ],
+   "context_shown": {
+    "placement": "note",
+    "note": "同一著者(note)・2026年6月、3日違いの投稿"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_023",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 11 / B: 2 (スキ数) 同一著者(note)・2026年6月、3日違いの投稿",
+    "sources": [
+     "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1",
+     "https://note.com/api/v2/creators/1man_challenge/contents?kind=note&page=1"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d013",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_025",
+    "it_ext_026"
+   ],
+   "context_shown": {
+    "placement": "YouTube",
+    "note": "同一チャンネル・投稿約4ヶ月後時点(2026-07-25閲覧)でどちらも「4か月前」表示"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_025",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 1,095,033回再生 / B: 276,680回再生",
+    "sources": [
+     "https://www.youtube.com/watch?v=IuHgxm4HrJs",
+     "https://www.youtube.com/watch?v=Fc5gzZoIF-A"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d014",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_027",
+    "it_ext_028"
+   ],
+   "context_shown": {
+    "placement": "YouTube",
+    "note": "同一チャンネル・2026-07-25閲覧時点でどちらも「9か月前」表示"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_027",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 1,023,982回再生 / B: 236,984回再生",
+    "sources": [
+     "https://www.youtube.com/watch?v=mh_RUVDG83s",
+     "https://www.youtube.com/watch?v=HOtmAW6BdqM"
+    ]
+   }
+  },
+  {
+   "id": "q_ext_d015",
+   "mode": "verify",
+   "format": "D",
+   "item_ids": [
+    "it_ext_029",
+    "it_ext_030"
+   ],
+   "context_shown": {
+    "placement": "YouTube",
+    "note": "同一チャンネル・2026-07-25閲覧時点でどちらも「3ヶ月前」表示"
+   },
+   "prompt": "どちらが伸びたと思いますか",
+   "has_ground_truth": true,
+   "ground_truth": "it_ext_029",
+   "target_layer": "predict",
+   "reveal": {
+    "note": "A: 810,616回再生 / B: 258,859回再生",
+    "sources": [
+     "https://www.youtube.com/watch?v=0J3SC17Dau8",
+     "https://www.youtube.com/watch?v=Vxd7p4u3O_4"
+    ]
+   }
+  }
+ ]
+}
