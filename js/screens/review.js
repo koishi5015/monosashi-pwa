@@ -1,13 +1,12 @@
 // 振り返り。判断中には出さない（§3.13-3）。
 import { el, mount, pct, fmtInt } from '../util.js';
-import { allJudgments, allExposures, getAxes, loadCatalog } from '../store.js';
+import { allJudgments, allExposures, loadCatalog } from '../store.js';
+import { SHORT } from '../subquestions.js';
 
 export default async function review() {
   const js = await allJudgments();
   const ex = await allExposures();
-  const axes = await getAxes();
-  let cat = null;
-  try { cat = await loadCatalog(); } catch (_) {}
+  try { await loadCatalog(); } catch (_) {}
 
   if (!js.length) {
     mount(el('div', {}, [
@@ -75,13 +74,17 @@ export default async function review() {
     seqBuckets[k].push(j);
   });
 
-  // --- 軸 ---
-  const axisDiff = {};
-  axes.axes.forEach((a) => (axisDiff[a.key] = 0));
-  let axisTotal = 0;
+  // --- 副設問（§6）。主設問と一致した率を型ごとに出す ---
+  const subs = {};
   js.forEach((j) => {
-    (j.axis_diff || []).forEach((k) => { if (k in axisDiff) { axisDiff[k]++; axisTotal++; } });
+    if (!j.sub_key || j.sub_agrees === null || j.sub_agrees === undefined) return;
+    (subs[j.sub_key] ||= { n: 0, agree: 0, hesitant: 0 });
+    subs[j.sub_key].n++;
+    if (j.sub_agrees) subs[j.sub_key].agree++;
+    if (j.confidence === 1) subs[j.sub_key].hesitant++;
   });
+  const subTotal = Object.values(subs).reduce((s, v) => s + v.n, 0);
+  const splits = js.filter((j) => j.sub_agrees === false);
 
   // --- 迷った判断の理由 ---
   const reasons = js.filter((j) => j.reason).sort((a, b) => new Date(b.answered_at) - new Date(a.answered_at));
@@ -102,7 +105,9 @@ export default async function review() {
     el('h1', { text: '振り返り' }),
 
     el('h2', { text: '溜まった量' }),
-    stat('判断', fmtInt(js.length) + ' 件', js.length < 30 ? '30件で軸の定義を起草します' : js.length < 200 ? '200〜300件で頭打ちの見込み' : null),
+    stat('判断', fmtInt(js.length) + ' 件',
+      js.length < 30 ? '30件で、要らない問いを削ります'
+      : js.length < 200 ? '200〜300件で頭打ちの見込み' : null),
     stat('浴びた', fmtInt(ex.length) + ' 本'),
     stat('判断なしで浴びた', fmtInt(ex.filter((e) => !e.with_judgment).length) + ' 本'),
     js.length < 30
@@ -136,16 +141,22 @@ export default async function review() {
       repeats ? `${agree} / ${repeats} · 予測精度の理論上限` : '再出題は14日後から'),
     priorN ? stat('当時の自分の選択との一致', pct(priorOK, priorN), `${priorOK} / ${priorN}`) : null,
 
-    axisTotal ? el('div', {}, [
-      el('h2', { text: 'どの軸で差がついたか' }),
-      ...axes.axes.map((a) => el('div', { style: 'margin-bottom:14px' }, [
-        el('div', { class: 'stat', style: 'border:none;padding:0' }, [
-          el('span', { class: 'k', text: a.label }),
-          el('span', { class: 'v', text: `${axisDiff[a.key]} 回` }),
-        ]),
-        el('div', { class: 'bar' }, [el('i', { style: `width:${(axisDiff[a.key] / axisTotal) * 100}%` })]),
-      ])),
-      el('p', { class: 'faint' }, ['ほとんど選ばれない軸は、言語化できていないか、そもそも軸として要らないかのどちらかです。']),
+    subTotal ? el('div', {}, [
+      el('h2', { text: '「通す判断」と一致した割合' }),
+      el('p', { class: 'faint' },
+        ['100%に近い問いは、あなたの判断とほぼ同じことを測っています。低い問いほど、通す判断とは別のものを測っている。そこが評価関数の分かれ目です。']),
+      ...Object.entries(subs).sort((a, b) => (b[1].agree / b[1].n) - (a[1].agree / a[1].n))
+        .map(([k, v]) => el('div', { style: 'margin-bottom:14px' }, [
+          el('div', { class: 'stat', style: 'border:none;padding:0' }, [
+            el('span', { class: 'k', text: SHORT[k] || k }),
+            el('span', { class: 'v', text: `${pct(v.agree, v.n)}  (${v.agree}/${v.n})` }),
+          ]),
+          el('div', { class: 'bar' }, [el('i', { style: `width:${(v.agree / v.n) * 100}%` })]),
+        ])),
+      splits.length ? el('div', { style: 'margin-top:20px' }, [
+        el('p', { class: 'faint' },
+          [`ズレた判断 ${splits.length} 件。「良いと思うが、そうではない」と答えた事例が、いちばん濃いデータです。`]),
+      ]) : null,
     ]) : null,
 
     el('h2', { text: '疲労' }),
@@ -167,7 +178,8 @@ export default async function review() {
       el('h2', { text: '迷ったときの決め手' }),
       ...reasons.slice(0, 30).map((j) => el('p', { class: 'small dim', style: 'margin-bottom:10px' },
         ['— ' + j.reason])),
-      el('p', { class: 'faint' }, ['ここに溜まった言葉が、そのままルールブックの原型になります。']),
+      el('p', { class: 'faint' },
+        ['ここに溜まった言葉が、そのままルールブックの原型になります。一致率の低い問いと突き合わせて読んでください。']),
     ]) : null,
 
     el('div', { style: 'height:40px' }),

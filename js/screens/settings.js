@@ -1,22 +1,20 @@
 import { el, mount, download, nowISO } from '../util.js';
-import { getSettings, setSettings, getAxes, setAxes, allJudgments, allExposures,
+import { getSettings, setSettings, allJudgments, allExposures,
          allSelfItems, getUserId } from '../store.js';
+import { PAIR, SHORT } from '../subquestions.js';
 import * as db from '../db.js';
 import { toast } from '../app.js';
 
 export default async function settings() {
   const s = await getSettings();
-  const axes = await getAxes();
   const js = await allJudgments();
-
-  const draft = JSON.parse(JSON.stringify(axes));
 
   async function exportJSON() {
     const payload = {
       schema: 'monosashi/v1',
       exported_at: nowISO(),
       user_id: await getUserId(),
-      axes: await getAxes(),
+      sub_questions: PAIR,
       judgments: await allJudgments(),
       exposures: await allExposures(),
       self_items: await allSelfItems(),
@@ -28,9 +26,9 @@ export default async function settings() {
   async function exportCSV() {
     const rows = await allJudgments();
     const cols = ['id', 'user_id', 'answered_at', 'question_id', 'mode', 'format', 'target_layer',
-      'perturbation_type', 'answer', 'axis_diff', 'score_hook', 'score_speed', 'score_catharsis',
+      'perturbation_type', 'answer', 'sub_key', 'sub_answer', 'sub_agrees',
       'confidence', 'reason', 'fix_text', 'was_correct', 'duration_ms', 'session_seq',
-      'is_retest_of', 'locked_at', 'revealed_at', 'axes_version'];
+      'is_retest_of', 'locked_at', 'revealed_at'];
     const esc = (v) => {
       if (v === null || v === undefined) return '';
       const s = typeof v === 'object' ? JSON.stringify(v) : String(v);
@@ -53,30 +51,15 @@ export default async function settings() {
     el('a', { class: 'back', href: '#/' }, ['← もどる']),
     el('h1', { text: '設定' }),
 
-    el('h2', { text: '軸の定義' }),
+    el('h2', { text: '聞かれること' }),
     el('p', { class: 'faint' }, [
-      `バージョン ${axes.version} · ${axes.note || ''}`,
-      js.length >= 30 ? ' 30件を超えました。理由の記録を読んで、定義を書き直す時期です。' : '',
+      '評価軸は固定していません。「どちらを通すか」に加えて、下の8つの問いが順に出ます。',
+      js.length >= 30 ? ' 30件を超えました。振り返り画面の一致率を見て、要らない問いを削る時期です。' : '',
     ]),
-    ...draft.axes.map((a, i) => el('div', { style: 'margin-bottom:16px' }, [
-      el('label', { class: 'field', text: a.label }),
-      el('textarea', {
-        rows: 2, value: a.desc,
-        oninput: (e) => { draft.axes[i].desc = e.target.value; },
-      }),
-    ])),
-    el('button', {
-      class: 'btn ghost',
-      onclick: async () => {
-        const changed = draft.axes.some((a, i) => a.desc !== axes.axes[i].desc);
-        if (!changed) { toast('変更がありません'); return; }
-        await setAxes({ ...draft, version: axes.version + 1,
-          note: `v${axes.version + 1} · ${js.length}件時点で更新` });
-        toast(`軸の定義を v${axes.version + 1} に更新しました`);
-        settings();
-      },
-    }, ['新しいバージョンとして保存']),
-    el('p', { class: 'faint' }, ['過去の判断は、当時の定義バージョンのまま保存されます。上書きはしません。']),
+    ...PAIR.map((p) => el('p', { class: 'small dim', style: 'margin-bottom:6px' },
+      ['— ' + (SHORT[p.key] || p.q)])),
+    el('p', { class: 'faint' },
+      ['「通す判断」と常に一致する問いは、同じことを二度聞いているだけなので削ります。逆に一致率の低い問いが、あなたの判断を分解している問いです。']),
 
     el('h2', { text: '1セットの問題数' }),
     el('div', { class: 'scale' }, [3, 5, 7, 10].map((n) =>

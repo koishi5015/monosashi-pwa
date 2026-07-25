@@ -3931,7 +3931,7 @@
     "audience": "AI副業に関心のある層",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -3947,7 +3947,7 @@
     "audience": "note初心者",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -3963,7 +3963,7 @@
     "audience": "通勤者",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -3979,7 +3979,7 @@
     "audience": "子育て中の親",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -3995,7 +3995,7 @@
     "audience": "副業に取り組む人",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4011,7 +4011,7 @@
     "audience": "ゲーム業界関係者・ファン",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4027,7 +4027,7 @@
     "audience": "雑学好き",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4043,7 +4043,7 @@
     "audience": "一般読者",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4059,7 +4059,7 @@
     "audience": "猫好き・雑学好き",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4075,7 +4075,7 @@
     "audience": "note講座受講者・中小企業経営者",
     "placement": "note"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4091,7 +4091,7 @@
     "audience": "エンジニア/セキュリティ担当者",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4107,7 +4107,7 @@
     "audience": "エンジニアリング組織のマネージャー",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4123,7 +4123,7 @@
     "audience": "インフラエンジニア",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4139,7 +4139,7 @@
     "audience": "エンジニア",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4155,7 +4155,7 @@
     "audience": "スクラムチームのメンバー",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4171,7 +4171,7 @@
     "audience": "料理好きな一般読者",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4187,7 +4187,7 @@
     "audience": "法律・行政に関心のある層",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4203,7 +4203,7 @@
     "audience": "ひとり旅・温泉好き",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4219,7 +4219,7 @@
     "audience": "マーケター・経営者",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"
@@ -4235,7 +4235,7 @@
     "audience": "音楽ファン",
     "placement": "はてなブログ"
    },
-   "prompt": "これは何を狙っていて、成功していますか",
+   "prompt": "これは何を狙っていますか。狙いどおり効いていますか",
    "has_ground_truth": false,
    "ground_truth": null,
    "target_layer": "diagnose"

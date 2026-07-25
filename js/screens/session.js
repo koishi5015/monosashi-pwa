@@ -1,14 +1,14 @@
 import { el, mount } from '../util.js';
-import { getSettings, setSettings, saveJudgment, saveExposure, getAxes,
+import { getSettings, saveJudgment, saveExposure,
          setResume, clearResume, getResume, loadCatalog, item } from '../store.js';
 import { buildSet } from '../scheduler.js';
+import { subFor } from '../subquestions.js';
 import { toast } from '../app.js';
 
 const LABEL_A = ['A', 'B', 'C', 'D', 'E'];
 
 export default async function session(params = {}) {
   const settings = await getSettings();
-  const axes = await getAxes();
   await loadCatalog();
 
   let state;
@@ -51,8 +51,9 @@ export default async function session(params = {}) {
     }
 
     // §3.2: 正解・出典はここでは一切 DOM に入れない
-    const draft = { answer: null, axis_diff: [], scores: {}, confidence: null, reason: '',
+    const draft = { answer: null, sub: null, confidence: null, reason: '',
                     fix_line: null, fix_text: '' };
+    const sub = subFor(q); // 問題ごとに聞くことを変える（§6）
 
     const dots = el('div', { class: 'dots' },
       state.questions.map((_, i) =>
@@ -91,17 +92,21 @@ export default async function session(params = {}) {
       ]);
     }
 
-    function scaleRow(key, label, desc) {
+    // 副設問。問題ごとに聞くことが変わる（§6）。回答は1タップ。
+    function subRow() {
+      const opts = q.format === 'S'
+        ? [['yes', sub.yes], ['no', sub.no]]
+        : items.map((it, i) => [it.id, LABEL_A[i]]);
       return el('div', { class: 'axis-row' }, [
         el('div', { class: 'lab' }, [
-          el('span', { class: 'n', text: label }),
-          el('span', { class: 'd', text: desc }),
+          el('span', { class: 'n', text: sub.q }),
+          el('span', { class: 'd', text: 'もう一問' }),
         ]),
-        el('div', { class: 'scale' }, [1, 2, 3, 4, 5].map((n) =>
+        el('div', { class: 'scale' }, opts.map(([v, t]) =>
           el('button', {
-            class: draft.scores[key] === n ? 'sel' : '',
-            onclick: () => { draft.scores[key] = n; refresh(); },
-          }, [String(n)]))),
+            class: draft.sub === v ? 'sel' : '',
+            onclick: () => { draft.sub = v; refresh(); },
+          }, [t]))),
       ]);
     }
 
@@ -141,23 +146,7 @@ export default async function session(params = {}) {
         items.forEach((it, i) => out.push(optionCard(it, i)));
         if (draft.answer) {
           out.push(el('div', { class: 'divider' }));
-          if (q.format === 'A') {
-            out.push(el('div', { class: 'axis-row' }, [
-              el('div', { class: 'lab' }, [
-                el('span', { class: 'n', text: 'どの軸で差がつきましたか' }),
-                el('span', { class: 'd', text: '複数可 / 任意' }),
-              ]),
-              el('div', { class: 'chips' }, axes.axes.map((a) =>
-                el('button', {
-                  class: 'chip' + (draft.axis_diff.includes(a.key) ? ' sel' : ''),
-                  onclick: () => {
-                    const i = draft.axis_diff.indexOf(a.key);
-                    if (i < 0) draft.axis_diff.push(a.key); else draft.axis_diff.splice(i, 1);
-                    refresh();
-                  },
-                }, [a.label]))),
-            ]));
-          }
+          if (q.format === 'A') out.push(subRow());
           out.push(confidenceRow());
           const r = reasonRow(); if (r) out.push(r);
         }
@@ -169,9 +158,21 @@ export default async function session(params = {}) {
                       text: it.body || restLines(it.content) }),
         ]));
         out.push(el('div', { class: 'divider' }));
-        axes.axes.forEach((a) => out.push(scaleRow(a.key, a.label, a.desc)));
-        out.push(confidenceRow());
-        const r = reasonRow(); if (r) out.push(r);
+        out.push(el('div', { class: 'row' }, [
+          el('button', {
+            class: 'opt center' + (draft.answer === 'works' ? ' sel' : ''),
+            onclick: () => { draft.answer = 'works'; refresh(); },
+          }, ['効いている']),
+          el('button', {
+            class: 'opt center' + (draft.answer === 'fails' ? ' sel' : ''),
+            onclick: () => { draft.answer = 'fails'; refresh(); },
+          }, ['効いていない']),
+        ]));
+        if (draft.answer) {
+          out.push(subRow());
+          out.push(confidenceRow());
+          const r = reasonRow(); if (r) out.push(r);
+        }
       } else if (q.format === 'B') {
         const it = items[0];
         const lines = splitLines(it.content);
@@ -202,7 +203,6 @@ export default async function session(params = {}) {
 
     function ready() {
       if (draft.confidence === null) return false;
-      if (q.format === 'S') return axes.axes.every((a) => draft.scores[a.key]);
       if (q.format === 'B') return draft.fix_line !== null;
       return !!draft.answer;
     }
@@ -229,10 +229,12 @@ export default async function session(params = {}) {
         format: q.format,
         item_ids: q.item_ids,
         answer,
-        axis_diff: draft.axis_diff,
-        score_hook: draft.scores.hook ?? null,
-        score_speed: draft.scores.speed ?? null,
-        score_catharsis: draft.scores.catharsis ?? null,
+        sub_key: (q.format === 'A' || q.format === 'S') ? sub.key : null,
+        sub_answer: draft.sub,
+        // 主設問と副設問がズレたか。ここが評価関数の内部構造を表す（§6）
+        sub_agrees: (q.format === 'A' && draft.sub) ? (draft.sub === draft.answer)
+                  : (q.format === 'S' && draft.sub) ? ((draft.sub === 'yes') === (draft.answer === 'works'))
+                  : null,
         confidence: draft.confidence,
         reason: draft.reason || null,
         fix_text: q.format === 'B' ? draft.fix_text : null,
@@ -341,5 +343,5 @@ function splitLines(s = '') {
 function defaultPrompt(q) {
   return { A: 'どちらを通しますか', C: 'どちらが元の版だと思いますか',
            D: 'どちらが伸びたと思いますか', B: '一箇所だけ直せるとしたら、どこですか',
-           S: 'これは何を狙っていて、成功していますか' }[q.format] || '';
+           S: 'これは何を狙っていますか。狙いどおり効いていますか' }[q.format] || '';
 }

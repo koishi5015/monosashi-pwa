@@ -27,31 +27,11 @@ export function invalidateCatalog() { catalog = null; }
 
 export const item = (id) => catalog?.byId[id];
 
-// ---- 軸の定義（バージョン付き。§6.1）----
-const AXES_V1 = {
-  version: 1,
-  updated_at: '2026-07-25',
-  axes: [
-    { key: 'hook', label: 'フック', desc: '冒頭で「続きを見る理由」が発生しているか' },
-    { key: 'speed', label: 'スピード', desc: '情報が停滞せず進むか。冗長・滞留がないか' },
-    { key: 'catharsis', label: 'カタルシス', desc: '期待に対する報酬が着地しているか' },
-  ],
-  note: '仮定義。30件時点で理由テキストから起草し直す。',
-};
-
-export async function getAxes() {
-  return await db.kvGet('axes', AXES_V1);
-}
-export async function setAxes(a) {
-  return db.kvSet('axes', { ...a, updated_at: nowISO() });
-}
-
 // ---- 判断 ----
 export async function saveJudgment(j) {
   const row = {
     id: uid('j_'),
     user_id: await getUserId(),
-    axes_version: (await getAxes()).version,
     answered_at: nowISO(),
     ...j,
   };
