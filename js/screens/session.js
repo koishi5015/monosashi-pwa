@@ -138,7 +138,9 @@ export default async function session(params = {}) {
 
     function buildBody() {
       const out = [];
-      out.push(el('div', { class: 'prompt', text: q.prompt || defaultPrompt(q) }));
+      const g = guide(q, items);
+      out.push(el('div', { class: 'prompt', text: g.title }));
+      if (g.note) out.push(el('p', { class: 'faint', style: 'margin:-10px 0 16px', text: g.note }));
       const ctx = metaRow(q.context_shown || items[0]?.context);
       if (ctx) out.push(ctx);
 
@@ -177,23 +179,30 @@ export default async function session(params = {}) {
         const it = items[0];
         const lines = splitLines(it.content);
         out.push(el('div', { class: 'card' }, [
-          el('div', { class: 'faint', style: 'margin-bottom:10px',
-                      text: '直したい一箇所をタップ' }),
+          el('div', { class: 'faint', style: 'margin-bottom:12px',
+                      text: '① 弱いと思う行をひとつタップ' }),
           ...lines.map((line, i) =>
             el('button', {
               class: 'opt' + (draft.fix_line === i ? ' sel' : ''),
               style: 'padding:12px 14px;margin-bottom:6px;font-size:15px;line-height:1.7',
               onclick: () => { draft.fix_line = i; draft.answer = i; refresh(); },
-            }, [line || '　'])),
+            }, [
+              el('span', { class: 'faint', style: 'display:block;font-size:11px;letter-spacing:.1em;margin-bottom:3px',
+                           text: i === 0 ? 'タイトル' : `${i}行目` }),
+              line || '　',
+            ])),
         ]));
         if (draft.fix_line !== null) {
           out.push(el('div', { class: 'axis-row' }, [
-            el('label', { class: 'field', text: 'どう直しますか（一行）' }),
+            el('label', { class: 'field', text: '② その行をどう直しますか（一行で）' }),
             el('input', {
-              type: 'text', placeholder: '例：3行目を消して、結論を先に置く',
+              type: 'text',
+              placeholder: '例：消す / 数字を入れる / 結論を先に置く',
               value: draft.fix_text,
               oninput: (e) => { draft.fix_text = e.target.value; },
             }),
+            el('p', { class: 'faint', style: 'margin:8px 0 0' },
+              ['「なぜ弱いか」ではなく「どう直すか」を書いてください。ここに書いた指示が、そのまま自分の作業に持ち帰れる形になります。']),
           ]));
           out.push(confidenceRow());
         }
@@ -340,8 +349,32 @@ function restLines(s = '') { return String(s).split('\n').slice(1).join('\n').tr
 function splitLines(s = '') {
   return String(s).split('\n').map((l) => l.trim()).filter((l) => l.length);
 }
-function defaultPrompt(q) {
-  return { A: 'どちらを通しますか', C: 'どちらが元の版だと思いますか',
-           D: 'どちらが伸びたと思いますか', B: '一箇所だけ直せるとしたら、どこですか',
-           S: 'これは何を狙っていますか。狙いどおり効いていますか' }[q.format] || '';
+// 設問文。何を聞かれているのか、何をすればいいのかを、画面だけで分かるようにする。
+// title = やること（命令形）、note = 前提の説明。
+function guide(q, items) {
+  const media = items[0]?.media;
+  switch (q.format) {
+    case 'A':
+      return media === 'copy'
+        ? { title: '2つのコピー案。どちらを出しますか',
+            note: '同じ依頼に対する2案です。正解はありません。自分が実際に世に出すならどちらか、で選んでください。' }
+        : { title: '2つの企画案。どちらを通しますか',
+            note: '同じ枠に出てきた2案です。正解はありません。自分が実際に作るならどちらか、で選んでください。' };
+    case 'B':
+      return { title: 'この案で、いちばん弱い1行はどれですか',
+               note: '行をタップして選び、そのあと直し方を一行で書きます。直せるのは1箇所だけです。' };
+    case 'C':
+      return { title: '片方は劣化版です。元はどちらですか',
+               note: '語順の入れ替え・一文の追加・具体の削除などを、片方にだけ1つ加えてあります。' };
+    case 'D': {
+      const metric = items[0]?.result_data?.metric;
+      return { title: '実際に伸びたのはどちらですか',
+               note: `同じ発信者が出した2本です。${metric ? metric + 'で比べます。' : ''}答えは決まっています。` };
+    }
+    case 'S':
+      return { title: 'この見出しは、狙いどおり効いていますか',
+               note: '実在のものです。誰に何をさせたい見出しなのかを考えてから答えてください。' };
+    default:
+      return { title: q.prompt || '', note: null };
+  }
 }

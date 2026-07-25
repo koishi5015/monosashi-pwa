@@ -1,6 +1,6 @@
 // オフライン動作用。素材カタログは network-first、それ以外は cache-first。
 // tools/deploy.sh が中身のハッシュでこの行を書き換える
-const CACHE = 'monosashi-d5865ae3';
+const CACHE = 'monosashi-df417f75';
 const SHELL = [
   './',
   './index.html',
