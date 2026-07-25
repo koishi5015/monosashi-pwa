@@ -21,8 +21,9 @@ const SHELL = [
   './data/items.json',
 ];
 
+// 待機状態に留まらせない。app.js 側が controllerchange で1度だけ再読み込みする。
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)));
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('message', (e) => {
