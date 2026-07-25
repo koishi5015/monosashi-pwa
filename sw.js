@@ -1,6 +1,6 @@
 // オフライン動作用。素材カタログは network-first、それ以外は cache-first。
 // tools/deploy.sh が中身のハッシュでこの行を書き換える
-const CACHE = 'monosashi-d2ffb9af';
+const CACHE = 'monosashi-209c5a43';
 const SHELL = [
   './',
   './index.html',
@@ -22,7 +22,11 @@ const SHELL = [
 ];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)));
+});
+
+self.addEventListener('message', (e) => {
+  if (e.data === 'skipWaiting') self.skipWaiting();
 });
 
 self.addEventListener('activate', (e) => {

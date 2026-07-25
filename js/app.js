@@ -39,8 +39,27 @@ async function render() {
 window.addEventListener('hashchange', render);
 render();
 
+// Service Worker。更新が出たら黙って入れ替えて1度だけ再読み込みする。
+// これがないと、ホーム画面に追加したあと古いコードが残り続ける。
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  let reloading = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (reloading) return;
+    reloading = true;
+    location.reload();
+  });
+  window.addEventListener('load', async () => {
+    try {
+      const reg = await navigator.serviceWorker.register('./sw.js', { updateViaCache: 'none' });
+      reg.addEventListener('updatefound', () => {
+        const sw = reg.installing;
+        if (!sw) return;
+        sw.addEventListener('statechange', () => {
+          // 既に制御下にある＝更新。初回インストールでは再読み込みしない
+          if (sw.state === 'installed' && navigator.serviceWorker.controller) sw.postMessage('skipWaiting');
+        });
+      });
+      reg.update();
+    } catch (_) { /* オフライン等。無視してよい */ }
   });
 }
